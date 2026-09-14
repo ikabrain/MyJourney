@@ -1,5 +1,4 @@
 # Roadmap
-I follow this.
 
 ## Before we start
 - [ ] [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
