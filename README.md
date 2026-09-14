@@ -3,6 +3,8 @@
 ## Before we start
 - [ ] [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
 - [ ] [Atomic Habits](https://archive.org/details/atomic-habits-pdfdrive/)
+- [x] [Daily meditation](https://www.atomei.app/)
+- [x] [Daily fitness](https://www.hevyapp.com/)
 - [ ] [Deep Work](https://cpcglobal.org/publications/Deep%20Work.pdf)
 
 ## Programming
