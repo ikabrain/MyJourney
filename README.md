@@ -9,18 +9,22 @@
 
 ## Programming
 - [x] [CS50P](https://cs50.harvard.edu/python/)
+  - [ ] FINAL PROJECT: [pixel-runner](https://github.com/ikabrain/pixel-runner)
 - [ ] [CS50x](https://cs50.harvard.edu/x/)
+  - [ ] FINAL PROJECT: [astro-game](https://github.com/ikabrain/astro-game)
 - [ ] [CS50W](https://cs50.harvard.edu/web/)
+  - [ ] FINAL PROJECT: 
 - [ ] [Introduction to Computational Thinking](https://ocw.mit.edu/courses/18-s191-introduction-to-computational-thinking-fall-2020/)
+  - [ ] FINAL PROJECT: 
 - [ ] CS Tools
   - [x] Download Linux (CachyOS)
   - [x] Choose Editor (VS Code)
   - [x] Choose AI Agent ([Claude Code](https://www.youtube.com/playlist?list=PLKnIA16_RmvaYH3poI0oJvbDF4zEvpq8W))
   - [ ] [Missing Semester of CS](https://missing.csail.mit.edu/)
-     
-## Projects
 
 ## Profile Building
+
+## Projects
 
 ## Puzzles
 - [ ] Learn Chess
@@ -41,11 +45,6 @@
 ## Maths Project
 - [ ] Learn manim
 
-## Core Physics
-- [ ] Feynmann Lecture on Physics
-
-## Physics Project
-
 ## Profile Building
 
 ## Machine Learning
@@ -62,4 +61,11 @@
 - [ ] DBMS from scratch
 - [ ] CN
 - [ ] System Design
+
+
+## Core Physics
+- [Quantum Mechanics - For the Love of Physics](https://youtube.com/playlist?list=PLRN3HroZGu2mCtdalEmZAM2nr1xBWAtUn&si=ILqSXavYcaTNvbJ8)
+- Feynmann Lecture on Physics
+
+## Physics Projects
 
