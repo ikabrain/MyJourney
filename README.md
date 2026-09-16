@@ -9,7 +9,7 @@
 
 ## Programming
 - [x] [CS50P](https://cs50.harvard.edu/python/)
-  - [ ] FINAL PROJECT: [pixel-runner](https://github.com/ikabrain/pixel-runner)
+  - [x] FINAL PROJECT: [pixel-runner](https://github.com/ikabrain/pixel-runner)
 - [ ] [CS50x](https://cs50.harvard.edu/x/)
   - [ ] FINAL PROJECT: [astro-game](https://github.com/ikabrain/astro-game)
 - [ ] [CS50W](https://cs50.harvard.edu/web/)
@@ -56,7 +56,12 @@
 
 ## Core CS
 - [ ] OOPS in C++
-- [ ] DSA in C++ and Python
+- [ ] DSA in C++ and/or Python
+  - [ ] Data Structures in C++ and/or Python
+  - [ ] Algorithms in C++ and/or Python
+  - [ ] LeetCode
+  - [ ] CodeChef
+  - [ ] CodeForces
 - [ ] OS from scratch in C
 - [ ] DBMS from scratch
 - [ ] CN
