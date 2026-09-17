@@ -24,7 +24,7 @@
 
 ## Profile Building
 
-## Projects
+## Dev
 
 ## Puzzles: Building logic & problem-solving
 - [ ] Learn Chess
