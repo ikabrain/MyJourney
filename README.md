@@ -8,12 +8,13 @@
 - [ ] [Deep Work](https://cpcglobal.org/publications/Deep%20Work.pdf)
 
 ## Programming
-- [x] [CS50P](https://cs50.harvard.edu/python/)
-  - [x] FINAL PROJECT: [pixel-runner](https://github.com/ikabrain/pixel-runner)
-- [ ] [CS50x](https://cs50.harvard.edu/x/)
-  - [ ] FINAL PROJECT: [astro-game](https://github.com/ikabrain/astro-game)
-- [ ] [CS50W](https://cs50.harvard.edu/web/)
-  - [ ] FINAL PROJECT: 
+- [ ] [CS50](https://cs50.harvard.edu/)
+  - [x] [CS50P](https://cs50.harvard.edu/python/)
+    - [x] FINAL PROJECT: [pixel-runner](https://github.com/ikabrain/pixel-runner)
+  - [ ] [CS50x](https://cs50.harvard.edu/x/)
+    - [ ] FINAL PROJECT: [astro-game](https://github.com/ikabrain/astro-game)
+  - [ ] [CS50W](https://cs50.harvard.edu/web/)
+    - [ ] FINAL PROJECT: 
 - [ ] [Introduction to Computational Thinking](https://ocw.mit.edu/courses/18-s191-introduction-to-computational-thinking-fall-2020/)
   - [ ] FINAL PROJECT: 
 - [ ] CS Tools
