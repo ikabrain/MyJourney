@@ -21,8 +21,9 @@
 - [ ] [Deep Work](https://cpcglobal.org/publications/Deep%20Work.pdf)
 
 ## Programming
-ORIENT: Python from Class 11 & 12
+ORIENT: Python from Class 11 & 12  
 MAIN PROJECT: [My own video game!](https://github.com/ikabrain/astro-game)
+
 - [x] [CS50P](https://cs50.harvard.edu/python/)
   - [x] PROJECT: [pixel-runner](https://github.com/ikabrain/pixel-runner)
 - [x] [CS50x](https://cs50.harvard.edu/x/)
@@ -40,14 +41,18 @@ SHIP:
 ## Profile Building
 
 ## AI-assisted Development
-ORIENT: https://www.youtube.com/watch?v=8DfvwZ812dM
+ORIENT: https://www.youtube.com/watch?v=8DfvwZ812dM  
 MAIN PROJECT: My own portfolio website!
+
 - [ ] (No AI) [CS50W](https://cs50.harvard.edu/web/)
   - [ ] MINI-PROJECT:
 
+SHIP:
+
 ## Maths
 EDA when?
-- MAIN PROJECT: Learn manim
+MAIN PROJECT: Learn manim
+
 - [x] Pre-calculus
 - [ ] **Linear Algebra**
   - [x] [Essence of Linear Algebra](https://www.3blue1brown.com/?topic=linear-algebra)
@@ -61,11 +66,12 @@ EDA when?
 
 
 ## Puzzles
-For building logic & problem-solving
+For building logic & problem-solving  
 - [ ] Learn Chess
 - [ ] [Programming for the Puzzled](https://ocw.mit.edu/courses/6-s095-programming-for-the-puzzled-january-iap-2018/)
 - [ ] [Introduction to Computational Thinking](https://ocw.mit.edu/courses/18-s191-introduction-to-computational-thinking-fall-2020/)
   - [ ] FINAL MINI-PROJECT: 
+
 SHIP:
 
 ## Core CS - 1
@@ -78,11 +84,12 @@ SHIP:
   - [ ] CodeForces
 
 ## Classical Machine Learning
-- MAIN PROJECT: Learn Weka
+MAIN PROJECT: Learn Weka
+
 - Hands-on ML with scikit-learn and PyTorch
 - [Maths for ML](https://mml-book.github.io/book/mml-book.pdf)
 - ISLP
-- 
+ 
 
 ## Deep Learning
 
