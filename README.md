@@ -52,6 +52,15 @@
 
 ## Profile Building
 
+## Core CS - 1
+- [ ] OOPS in C++
+- [ ] DSA in C++ and/or Python
+  - [ ] Data Structures in C++ and/or Python
+  - [ ] Algorithms in C++ and/or Python
+  - [ ] LeetCode
+  - [ ] CodeChef
+  - [ ] CodeForces
+
 ## Machine Learning
 - [Maths for ML](https://mml-book.github.io/book/mml-book.pdf)
 
@@ -60,13 +69,6 @@
 ## Deep Learning
 
 ## Core CS
-- [ ] OOPS in C++
-- [ ] DSA in C++ and/or Python
-  - [ ] Data Structures in C++ and/or Python
-  - [ ] Algorithms in C++ and/or Python
-  - [ ] LeetCode
-  - [ ] CodeChef
-  - [ ] CodeForces
 - [ ] OS from scratch in C
 - [ ] DBMS from scratch
 - [ ] CN
