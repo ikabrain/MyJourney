@@ -43,6 +43,7 @@ SHIP:
   - [ ] MAIN PROJECT: 
 
 ## Maths
+EDA when?
 - MAIN PROJECT: Learn manim
 - [x] Pre-calculus
 - [ ] **Linear Algebra**
