@@ -1,15 +1,15 @@
 # 🚀 My Learning Journey
 
 ## 📋 Table of Contents
-- Before we start
-- Programming
-- Profile Building
-- Dev
-- Maths
-- Puzzles
+- [Before we start](https://github.com/ikabrain/MyJourney#before-we-start)
+- [Programming](https://github.com/ikabrain/MyJourney#programming)
+- [Profile Building](https://github.com/ikabrain/MyJourney#profile-building)
+- [Dev](https://github.com/ikabrain/MyJourney#dev)
+- [Maths](https://github.com/ikabrain/MyJourney#maths)
+- [Puzzles](https://github.com/ikabrain/MyJourney#puzzles)
 - Core CS - 1
-- ML
-- DL
+- [Classical Machine Learning](https://github.com/ikabrain/MyJourney#classical-machine-learning)
+- [Deep Learning](https://github.com/ikabrain/MyJourney#deep-learning)
 - Core CS
 - Core Physics
 
@@ -21,26 +21,26 @@
 - [ ] [Deep Work](https://cpcglobal.org/publications/Deep%20Work.pdf)
 
 ## Programming
-- MAIN PROJECT: 
-- [ ] [CS50](https://cs50.harvard.edu/)
-  - [x] [CS50P](https://cs50.harvard.edu/python/)
-    - [x] FINAL MINI-PROJECT: [pixel-runner](https://github.com/ikabrain/pixel-runner)
-  - [ ] [CS50x](https://cs50.harvard.edu/x/)
-    - [ ] FINAL MINI-PROJECT: [astro-game](https://github.com/ikabrain/astro-game)
-  - [ ] [CS50W](https://cs50.harvard.edu/web/)
-    - [ ] FINAL MINI-PROJECT: 
-- [ ] [Introduction to Computational Thinking](https://ocw.mit.edu/courses/18-s191-introduction-to-computational-thinking-fall-2020/)
-  - [ ] FINAL MINI-PROJECT: 
+- MAIN PROJECT: [My own video game!](https://github.com/ikabrain/astro-game)
+- [x] [CS50P](https://cs50.harvard.edu/python/)
+  - [x] PROJECT: [pixel-runner](https://github.com/ikabrain/pixel-runner)
+- [x] [CS50x](https://cs50.harvard.edu/x/)
+  - [ ] PROJECT: [astro-game](https://github.com/ikabrain/astro-game)
 - [ ] CS Tools
   - [x] Download Linux (CachyOS)
   - [x] Choose Editor (VS Code)
+  - [x] [Learn Git & GitHub](https://www.youtube.com/watch?v=apGV9Kg7ics)
   - [x] Choose AI Agent ([Claude Code](https://www.youtube.com/playlist?list=PLKnIA16_RmvaYH3poI0oJvbDF4zEvpq8W))
   - [ ] [Missing Semester of CS](https://missing.csail.mit.edu/)
-  - [ ] MINI-PROJECT: 
+  - [ ] PROJECT:
+- [ ] SHIP: 
 
 ## Profile Building
 
 ## Dev
+- [ ] [CS50W](https://cs50.harvard.edu/web/)
+  - [ ] FINAL MINI-PROJECT:
+  - [ ] MAIN PROJECT: 
 
 ## Maths
 - MAIN PROJECT: Learn manim
@@ -60,6 +60,8 @@
 For building logic & problem-solving
 - [ ] Learn Chess
 - [ ] [Programming for the Puzzled](https://ocw.mit.edu/courses/6-s095-programming-for-the-puzzled-january-iap-2018/)
+- [ ] [Introduction to Computational Thinking](https://ocw.mit.edu/courses/18-s191-introduction-to-computational-thinking-fall-2020/)
+  - [ ] FINAL MINI-PROJECT: 
 - [ ] Profile Building
 
 ## Core CS - 1
@@ -71,8 +73,9 @@ For building logic & problem-solving
   - [ ] CodeChef
   - [ ] CodeForces
 
-## Machine Learning
+## Classical Machine Learning
 - MAIN PROJECT: Learn Weka
+- Hands-on ML with scikit-learn and PyTorch
 - [Maths for ML](https://mml-book.github.io/book/mml-book.pdf)
 - ISLP
 - 
