@@ -1,4 +1,17 @@
-# My Learning Journey
+# 🚀 My Learning Journey
+
+## 📋 Table of Contents
+- Before we start
+- Programming
+- Profile Building
+- Dev
+- Maths
+- Puzzles
+- Core CS - 1
+- ML
+- DL
+- Core CS
+- Core Physics
 
 ## Before we start
 - [ ] [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
@@ -29,28 +42,25 @@
 
 ## Dev
 
-## Puzzles: Building logic & problem-solving
-- [ ] Learn Chess
-- [ ] [Programming for the Puzzled](https://ocw.mit.edu/courses/6-s095-programming-for-the-puzzled-january-iap-2018/)
-
-## Core Maths
-- MAIN PROJECT: 
+## Maths
+- MAIN PROJECT: Learn manim
 - [x] Pre-calculus
-- [ ] Calculus
 - [ ] **Linear Algebra**
   - [x] [Essence of Linear Algebra](https://www.3blue1brown.com/?topic=linear-algebra)
   - [ ] [Linear Algebra by Gilbert Strang](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)
   - [ ] [Applying Linear Algebra by Gilbert Strang](https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)
   - [ ] MINI-PROJECT: Linear Algebra explainer using Manim
   - [ ] [Linear Algebra Done Right](https://linear.axler.net/LADR4e.pdf)
+- [ ] Calculus & Optimization
 - [ ] Probability and Statistics
-- [ ] Optimization
 - [ ] Discrete Mathematics
 
-## Maths Project
-- [ ] Learn manim
 
-## Profile Building
+## Puzzles
+For building logic & problem-solving
+- [ ] Learn Chess
+- [ ] [Programming for the Puzzled](https://ocw.mit.edu/courses/6-s095-programming-for-the-puzzled-january-iap-2018/)
+- [ ] Profile Building
 
 ## Core CS - 1
 - [ ] OOPS in C++
@@ -62,9 +72,10 @@
   - [ ] CodeForces
 
 ## Machine Learning
+- MAIN PROJECT: Learn Weka
 - [Maths for ML](https://mml-book.github.io/book/mml-book.pdf)
-
-## ML Projects
+- ISLP
+- 
 
 ## Deep Learning
 
@@ -78,6 +89,5 @@
 ## Core Physics
 - [Quantum Mechanics - For the Love of Physics](https://youtube.com/playlist?list=PLRN3HroZGu2mCtdalEmZAM2nr1xBWAtUn&si=ILqSXavYcaTNvbJ8)
 - Feynmann Lecture on Physics
-
-## Physics Projects
+- Physics Projects
 
