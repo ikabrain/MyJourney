@@ -4,7 +4,7 @@
 - [Before we start](https://github.com/ikabrain/MyJourney#before-we-start)
 - [Programming](https://github.com/ikabrain/MyJourney#programming)
 - [Profile Building](https://github.com/ikabrain/MyJourney#profile-building)
-- [Dev](https://github.com/ikabrain/MyJourney#dev)
+- [AI-assisted Development](https://github.com/ikabrain/MyJourney#ai-assisted-development)
 - [Maths](https://github.com/ikabrain/MyJourney#maths)
 - [Puzzles](https://github.com/ikabrain/MyJourney#puzzles)
 - Core CS - 1
@@ -21,6 +21,7 @@
 - [ ] [Deep Work](https://cpcglobal.org/publications/Deep%20Work.pdf)
 
 ## Programming
+ORIENT: Python from Class 11 & 12
 MAIN PROJECT: [My own video game!](https://github.com/ikabrain/astro-game)
 - [x] [CS50P](https://cs50.harvard.edu/python/)
   - [x] PROJECT: [pixel-runner](https://github.com/ikabrain/pixel-runner)
@@ -33,14 +34,16 @@ MAIN PROJECT: [My own video game!](https://github.com/ikabrain/astro-game)
   - [x] Choose AI Agent ([Claude Code](https://www.youtube.com/playlist?list=PLKnIA16_RmvaYH3poI0oJvbDF4zEvpq8W))
   - [ ] [Missing Semester of CS](https://missing.csail.mit.edu/)
   - [ ] PROJECT:
+
 SHIP: 
 
 ## Profile Building
 
-## Dev
-- [ ] [CS50W](https://cs50.harvard.edu/web/)
-  - [ ] FINAL MINI-PROJECT:
-  - [ ] MAIN PROJECT: 
+## AI-assisted Development
+ORIENT: https://www.youtube.com/watch?v=8DfvwZ812dM
+MAIN PROJECT: My own portfolio website!
+- [ ] (No AI) [CS50W](https://cs50.harvard.edu/web/)
+  - [ ] MINI-PROJECT:
 
 ## Maths
 EDA when?
