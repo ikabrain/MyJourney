@@ -21,7 +21,7 @@
 - [ ] [Deep Work](https://cpcglobal.org/publications/Deep%20Work.pdf)
 
 ## Programming
-- MAIN PROJECT: [My own video game!](https://github.com/ikabrain/astro-game)
+MAIN PROJECT: [My own video game!](https://github.com/ikabrain/astro-game)
 - [x] [CS50P](https://cs50.harvard.edu/python/)
   - [x] PROJECT: [pixel-runner](https://github.com/ikabrain/pixel-runner)
 - [x] [CS50x](https://cs50.harvard.edu/x/)
@@ -33,7 +33,7 @@
   - [x] Choose AI Agent ([Claude Code](https://www.youtube.com/playlist?list=PLKnIA16_RmvaYH3poI0oJvbDF4zEvpq8W))
   - [ ] [Missing Semester of CS](https://missing.csail.mit.edu/)
   - [ ] PROJECT:
-- [ ] SHIP: 
+SHIP: 
 
 ## Profile Building
 
@@ -62,7 +62,7 @@ For building logic & problem-solving
 - [ ] [Programming for the Puzzled](https://ocw.mit.edu/courses/6-s095-programming-for-the-puzzled-january-iap-2018/)
 - [ ] [Introduction to Computational Thinking](https://ocw.mit.edu/courses/18-s191-introduction-to-computational-thinking-fall-2020/)
   - [ ] FINAL MINI-PROJECT: 
-- [ ] Profile Building
+SHIP:
 
 ## Core CS - 1
 - [ ] OOPS in C++
