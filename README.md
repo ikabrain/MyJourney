@@ -36,7 +36,7 @@ MAIN PROJECT: [How can I make my own 2D arcade video game with intelligent enemi
   - [ ] [CS50W](https://cs50.harvard.edu/web/) for Django
   - [ ] MINI-PROJECT: Create a website connecting NGOs to volunteers (HackTU)
   - [ ] [The Odin Project](https://www.theodinproject.com/) for MERN Stack
-  - [ ] MINI-PROJECT: Create my own portfolio website inspired from this
+  - [ ] MINI-PROJECT: Create my own portfolio website inspired from [this](https://www.youtube.com/playlist?list=PL6QREj8te1P7rEwj_IzsoLzQ-FBbZ6lqP)
   - [ ] PROJECT: Website for [the game](https://github.com/ikabrain/astro-game)
 - [ ] Introductory App Dev
   - [ ] [React Native by JavaScript Mastery](https://www.youtube.com/playlist?list=PL6QREj8te1P54rZQx5AWWtFyf1hlznFjL)
