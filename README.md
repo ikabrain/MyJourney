@@ -42,6 +42,9 @@ MAIN PROJECT: [How can I make my own 2D arcade video game with intelligent enemi
   - [ ] [React Native by JavaScript Mastery](https://www.youtube.com/playlist?list=PL6QREj8te1P54rZQx5AWWtFyf1hlznFjL)
   - [ ] MINI-PROJECT:
   - [ ] PROJECT:
+- [ ] Introductory AI
+  - [ ] [CS50AI](https://cs50.harvard.edu/ai/)
+  - [ ] PROJECT: Make smart enemy ships in [the game](https://github.com/ikabrain/astro-game)
 - [ ] CS Tools
   - [x] Download Linux (CachyOS)
   - [x] Choose Editor (VS Code)
