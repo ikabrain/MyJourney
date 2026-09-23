@@ -21,7 +21,7 @@
 - [x] [Daily fitness](https://www.hevyapp.com/)
 - [ ] [Deep Work](https://cpcglobal.org/publications/Deep%20Work.pdf)
 
-## Programming
+## Python Programming & basic CS
 ORIENT: Python from Class 11 & 12  
 MAIN PROJECT: [How can I make my own 2D arcade video game with intelligent enemies?](https://github.com/ikabrain/astro-game)
 
