@@ -10,6 +10,7 @@
 - [Data Analysis](https://github.com/ikabrain/MyJourney#data-analysis)
 - [Classical Machine Learning](https://github.com/ikabrain/MyJourney#classical-machine-learning)
 - [Deep Learning](https://github.com/ikabrain/MyJourney#deep-learning)
+- [Explainable AI](https://github.com/ikabrain/MyJourney#explainable-ai)
 - [MLOps](https://github.com/ikabrain/MyJourney#mlops)
 - [Core Physics](https://github.com/ikabrain/MyJourney#core-physics)
 - [Reinforcement Learning](https://github.com/ikabrain/MyJourney#reinforcement-learning)
@@ -114,6 +115,8 @@ MAIN PROJECT: Get one research paper published
 - [Neural Networks: Zero to Hero by Andrej Karpathy](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
 - [100 Days of Deep Learning | CampusX](https://www.youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn)
 COLD EMAIL: 
+
+## Explainable AI
 
 ## MLOps
 
