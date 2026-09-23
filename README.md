@@ -119,6 +119,7 @@ MAIN PROJECT: Get one research paper published
 - [Deep Learning book by Ian Goodfellow](https://www.deeplearningbook.org/)
 - [Neural Networks: Zero to Hero by Andrej Karpathy](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
 - [100 Days of Deep Learning | CampusX](https://www.youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn)
+COLD EMAIL: 
 
 ## MLOps
 
