@@ -70,31 +70,31 @@ MAIN PROJECT: Learn numpy, pandas, plt, seaborn, sympy, scipy, manim
   - [ ] **Pandas:** [Python for Data Analysis | Book](https://wesmckinney.com/book/)
 - [ ] Algebra
   - Done during JEE prep
-  - [ ] [College Algebra in Python using Numpy, Pandas, Matplotlib, and SymPy](https://youtu.be/i7vOAcUo5iA?si=VGtYR-ZgFNBqPsKN)
+  - [ ] PRACTICAL: [College Algebra in Python using Numpy, Pandas, Matplotlib, and SymPy](https://youtu.be/i7vOAcUo5iA?si=VGtYR-ZgFNBqPsKN)
 - [ ] Pre-calculus
   - Done during JEE prep
-  - [ ] [College Precalculus in Python using Numpy, Pandas, Matplotlib, and SymPy](https://www.youtube.com/watch?v=Y8oZtFYweTY)
+  - [ ] PRACTICAL: [College Precalculus in Python using Numpy, Pandas, Matplotlib, and SymPy](https://www.youtube.com/watch?v=Y8oZtFYweTY)
 - [ ] Single-variable calculus
   - [ ] [Essence of Calculus](https://www.3blue1brown.com/?topic=calculus)
   - [ ] [Single Variable Calculus | MIT OCW](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/)
-  - [ ] [College Calculus in Python using SymPy | freeCodeCamp](https://www.youtube.com/watch?v=VDFRpjQVaME)
+  - [ ] PRACTICAL: [College Calculus in Python using SymPy | freeCodeCamp](https://www.youtube.com/watch?v=VDFRpjQVaME)
 - [ ] **Linear Algebra**
   - [x] [Essence of Linear Algebra | 3b1b](https://www.3blue1brown.com/?topic=linear-algebra)
   - [ ] [Linear Algebra by Gilbert Strang | MIT OCW](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)
   - [ ] [Applying Linear Algebra by Gilbert Strang | MIT OCW](https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)
-  - [ ] MINI-PROJECT: Linear Algebra explainer using Manim?
   - [ ] [Linear Algebra Done Wrong](https://sites.google.com/a/brown.edu/sergei-treil-homepage/linear-algebra-done-wrong)
   - [ ] [Linear Algebra Done Right](https://linear.axler.net/LADR4e.pdf)
+  - [ ] PRACTICAL: [Computational Linear Algebra for Coders](https://github.com/fastai/numerical-linear-algebra)
 - [ ] Multi-variable calculus
   - [ ] [Multivariable Calculus | MIT](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/)
 - [ ] Probability and Statistics
   - [ ] [Harvard's Stat110](https://stat110.hsites.harvard.edu/)
   - [ ] [Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
   - [ ] [Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
-  - [ ] [Statistical Learning with Python by Stanford University on EdX](https://www.edx.org/learn/python/stanford-university-statistical-learning-with-python) ([Textbook](https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html), [Textbook resources](https://www.statlearning.com/resources-python))
+  - [ ] PRACTICAL: [Statistical Learning with Python by Stanford University on EdX](https://www.edx.org/learn/python/stanford-university-statistical-learning-with-python) ([Textbook](https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html), [Textbook resources](https://www.statlearning.com/resources-python))
   - [ ] [Practical Statistics for Data Scientists | Book by Peter Bruce & Andrew Bruce](https://github.com/Muslekh/Notes/blob/master/Peter%20Bruce%2C%20Andrew%20Bruce%20-%20Practical%20statistics%20for%20data%20scientists_%2050%20essential%20concepts-O%E2%80%99Reilly%20(2017).pdf)
   - [ ] [Online Statistics Book](https://onlinestatbook.com/)
-- [ ] [Python Programming And Numerical Methods: A Guide For Engineers And Scientists](https://pythonnumericalmethods.studentorg.berkeley.edu/)
+- [ ] PRACTICAL: [Python Programming And Numerical Methods: A Guide For Engineers And Scientists](https://pythonnumericalmethods.studentorg.berkeley.edu/)
 
 SHIP:
 
