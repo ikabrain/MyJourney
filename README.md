@@ -18,11 +18,13 @@
 ## Before we start
 - [ ] [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
 - [ ] [Atomic Habits](https://archive.org/details/atomic-habits-pdfdrive/)
+- [ ] [Deep Work](https://cpcglobal.org/publications/Deep%20Work.pdf)
 - [x] [Daily meditation](https://www.atomei.app/)
 - [x] [Daily fitness](https://www.hevyapp.com/)
-- [ ] [Deep Work](https://cpcglobal.org/publications/Deep%20Work.pdf)
+- [ ] Daily Chess
 
-## Python Programming & basic CS
+
+## Python Programming & Basic Computer Science
 ORIENT: Python from Class 11 & 12  
 MAIN PROJECT: [How can I make my own 2D arcade video game with intelligent enemies?](https://github.com/ikabrain/astro-game)
 
@@ -54,49 +56,48 @@ SHIP:
 
 ## Profile Building
 MAIN PROJECT: Take part in 3 hackathons + win one!
-
-
-## Puzzles
-For building logic & problem-solving  
-- [ ] Learn Chess
 - [ ] [Programming for the Puzzled](https://ocw.mit.edu/courses/6-s095-programming-for-the-puzzled-january-iap-2018/)
 - [ ] [Introduction to Computational Thinking](https://ocw.mit.edu/courses/18-s191-introduction-to-computational-thinking-fall-2020/)
   - [ ] FINAL MINI-PROJECT: 
 
-## Maths
-MAIN PROJECT: Learn manim
+## Data Science
+EDA
+https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-course/
 
-- [x] Pre-calculus
+## Maths
+(M4ML Book & ICL course & DeepLearning.AI course???)
+MAIN PROJECT: Learn scipy + manim
+- [ ] Algebra
+  - Done during JEE prep
+  - [ ] [College Algebra in Python using Numpy, Pandas, Matplotlib, and SymPy](https://youtu.be/i7vOAcUo5iA?si=VGtYR-ZgFNBqPsKN)
+- [ ] Pre-calculus
+  - Done during JEE prep
+  - [ ] [College Precalculus in Python using Numpy, Pandas, Matplotlib, and SymPy](https://www.youtube.com/watch?v=Y8oZtFYweTY)
+- [ ] Single-variable calculus
+  - [ ] [Essence of Calculus](https://www.3blue1brown.com/?topic=calculus)
+  - [ ] [Single Variable Calculus | MIT OCW](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/)
+  - [ ] [College Calculus in Python using SymPy | freeCodeCamp](https://www.youtube.com/watch?v=VDFRpjQVaME)
 - [ ] **Linear Algebra**
-  - [x] [Essence of Linear Algebra](https://www.3blue1brown.com/?topic=linear-algebra)
-  - [ ] [Linear Algebra by Gilbert Strang](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)
-  - [ ] [Applying Linear Algebra by Gilbert Strang](https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)
+  - [x] [Essence of Linear Algebra | 3b1b](https://www.3blue1brown.com/?topic=linear-algebra)
+  - [ ] [Linear Algebra by Gilbert Strang | MIT OCW](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)
+  - [ ] [Applying Linear Algebra by Gilbert Strang | MIT OCW](https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)
   - [ ] MINI-PROJECT: Linear Algebra explainer using Manim?
   - [ ] [Linear Algebra Done Right](https://linear.axler.net/LADR4e.pdf)
-- [ ] Calculus & Optimization
+- [ ] Multi-variable calculus
+  - [ ] [Multivariable Calculus | MIT](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/)
 - [ ] Probability and Statistics
-- [ ] Discrete Mathematics
+  - [ ] [Harvard's Stat110](https://stat110.hsites.harvard.edu/)
+  - [ ] [Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
+  - [ ] [Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
+  - [ ] [Statistical Learning with Python by Stanford University on EdX](https://www.edx.org/learn/python/stanford-university-statistical-learning-with-python) ([Textbook](https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html), [Textbook resources](https://www.statlearning.com/resources-python))
 
 SHIP:
 
-## Core CS
-MAIN PROJECT: 
-- [ ] OOPS in C++ and/or Python
-- [ ] DSA in C++ and/or Python
-  - [ ] Data Structures in C++ and/or Python
-  - [ ] Algorithms in C++ and/or Python
-  - [ ] LeetCode
-  - [ ] [CP](https://pclub.in/roadmap/2024/07/21/cp-roadmap/)
-- [ ] OS from scratch in C
-- [ ] DBMS from scratch
-- [ ] CN
-- [ ] System Design
 
-## Data Analysis
-https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-course/
-
-## Classical Machine Learning
-MAIN PROJECT: Learn Weka
+## Classical Machine Learning from Scratch
+https://github.com/ujjwalkarn/Machine-Learning-Tutorials
+ORIENT: Learn Weka + Kaggle courses + Hands-on ML
+MAIN PROJECT: Kaggle
 
 - AngrewNg ML Specialisation
 - [Maths for ML](https://mml-book.github.io/book/mml-book.pdf)
@@ -117,10 +118,27 @@ MAIN PROJECT: Get one research paper published
 COLD EMAIL: 
 
 ## Explainable AI
+https://github.com/altamiracorp/awesome-xai#repositories
+
+
+## Core CS
+MAIN PROJECT: 
+- [ ] Discrete Mathematics
+- [ ] OOD in C++ and/or Python
+- [ ] DSA in C++ and/or Python
+  - [ ] Data Structures in C++ and/or Python
+  - [ ] Algorithms in C++ and/or Python
+  - [ ] LeetCode
+  - [ ] [CP](https://pclub.in/roadmap/2024/07/21/cp-roadmap/)
+- [ ] DBMS from scratch
+- [ ] System Design
+- [ ] OS from scratch in C
+- [ ] CN
 
 ## MLOps
 
-## Core Physics
+
+## Core Physics and Quantum Physics
 - [Quantum Mechanics - For the Love of Physics](https://youtube.com/playlist?list=PLRN3HroZGu2mCtdalEmZAM2nr1xBWAtUn&si=ILqSXavYcaTNvbJ8)
 - Feynmann Lecture on Physics
 - Physics Projects
