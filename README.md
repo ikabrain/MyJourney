@@ -25,23 +25,17 @@
 ORIENT: Python from Class 11 & 12  
 MAIN PROJECT: [How can I make my own 2D arcade video game with intelligent enemies?](https://github.com/ikabrain/astro-game)
 
-- [ ] Python
+- [x] Python
   - [x] [CS50P](https://cs50.harvard.edu/python/)
-  - [ ] PRACTICE: [Scientific Computing with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/)
-  - [x] PROJECT: [Game prototype in Python](https://github.com/ikabrain/pixel-runner)
-- [ ] Intro to CS
+  - [x] MINI-PROJECT: [Runner Game in Python](https://github.com/ikabrain/pixel-runner)
+- [ ] Introductory CS
   - [x] [CS50x](https://cs50.harvard.edu/x/)
   - [ ] PROJECT: [Actual fleshed-out game in Godot](https://github.com/ikabrain/astro-game)
-- [ ] Introductory Web Dev
+- [ ] Introductory Dev
   - [ ] [CS50W](https://cs50.harvard.edu/web/) for Django
   - [ ] MINI-PROJECT: Create a website connecting NGOs to volunteers (HackTU)
-  - [ ] [The Odin Project](https://www.theodinproject.com/) for MERN Stack
   - [ ] MINI-PROJECT: Create my own portfolio website inspired from [this](https://www.youtube.com/playlist?list=PL6QREj8te1P7rEwj_IzsoLzQ-FBbZ6lqP)
   - [ ] PROJECT: Website for [the game](https://github.com/ikabrain/astro-game)
-- [ ] Introductory App Dev
-  - [ ] [React Native by JavaScript Mastery](https://www.youtube.com/playlist?list=PL6QREj8te1P54rZQx5AWWtFyf1hlznFjL)
-  - [ ] MINI-PROJECT:
-  - [ ] PROJECT:
 - [ ] Introductory AI
   - [ ] [CS50AI](https://cs50.harvard.edu/ai/)
   - [ ] PROJECT: Make smart enemy ships in [the game](https://github.com/ikabrain/astro-game)
@@ -76,7 +70,7 @@ MAIN PROJECT: Learn manim
   - [x] [Essence of Linear Algebra](https://www.3blue1brown.com/?topic=linear-algebra)
   - [ ] [Linear Algebra by Gilbert Strang](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)
   - [ ] [Applying Linear Algebra by Gilbert Strang](https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)
-  - [ ] MINI-PROJECT: Linear Algebra explainer using Manim
+  - [ ] MINI-PROJECT: Linear Algebra explainer using Manim?
   - [ ] [Linear Algebra Done Right](https://linear.axler.net/LADR4e.pdf)
 - [ ] Calculus & Optimization
 - [ ] Probability and Statistics
