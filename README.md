@@ -2,17 +2,15 @@
 
 ## 📋 Table of Contents
 - [Before we start](https://github.com/ikabrain/MyJourney#before-we-start)
-- [Programming](https://github.com/ikabrain/MyJourney#programming)
+- [Python Programming & Basic Computer Science](https://github.com/ikabrain/MyJourney#python-programming--basic-computer-science)
 - [Profile Building](https://github.com/ikabrain/MyJourney#profile-building)
-- [Puzzles](https://github.com/ikabrain/MyJourney#puzzles)
-- [Maths](https://github.com/ikabrain/MyJourney#maths)
-- [Core CS](https://github.com/ikabrain/MyJourney#core-cs)
-- [Data Analysis](https://github.com/ikabrain/MyJourney#data-analysis)
-- [Classical Machine Learning](https://github.com/ikabrain/MyJourney#classical-machine-learning)
-- [Deep Learning](https://github.com/ikabrain/MyJourney#deep-learning)
+- [Mathematics for Data Science](https://github.com/ikabrain/MyJourney#mathematics-for-data-science)
+- [Classical Machine Learning from Scratch](https://github.com/ikabrain/MyJourney#classical-machine-learning-from-scratch)
+- [Deep Learning from Scratch](https://github.com/ikabrain/MyJourney#deep-learning-from-scratch)
 - [Explainable AI](https://github.com/ikabrain/MyJourney#explainable-ai)
+- [Core CS](https://github.com/ikabrain/MyJourney#core-cs)
 - [MLOps](https://github.com/ikabrain/MyJourney#mlops)
-- [Core Physics](https://github.com/ikabrain/MyJourney#core-physics)
+- [Core Physics](https://github.com/ikabrain/MyJourney#core-physics-and-quantum-physics)
 - [Reinforcement Learning](https://github.com/ikabrain/MyJourney#reinforcement-learning)
 
 ## Before we start
@@ -58,15 +56,18 @@ SHIP:
 MAIN PROJECT: Take part in 3 hackathons + win one!
 - [ ] [Programming for the Puzzled](https://ocw.mit.edu/courses/6-s095-programming-for-the-puzzled-january-iap-2018/)
 - [ ] [Introduction to Computational Thinking](https://ocw.mit.edu/courses/18-s191-introduction-to-computational-thinking-fall-2020/)
-  - [ ] FINAL MINI-PROJECT: 
+  - [ ] FINAL MINI-PROJECT:
 
-## Data Science
-EDA
-https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-course/
 
-## Maths
+## Mathematics for Data Science
 (M4ML Book & ICL course & DeepLearning.AI course???)
-MAIN PROJECT: Learn scipy + manim
+MAIN PROJECT: Learn numpy, pandas, plt, seaborn, sympy, scipy, manim
+- [ ] Python for Data Science
+  - [ ] [Data Wrangling with Python](https://github.com/Shubham-Kr-Shaw/Books_and_study_materials/blob/main/Data%20Wrangling%20with%20Python%20Tips%20and%20Tools%20to%20Make%20Your%20Life%20Easier%20by%20Jacqueline%20Kazil%2C%20Katharine%20Jarmul%20(z-lib.org).pdf)
+  - [ ] **Foundations:** Data Science from Scratch | Book by Joel Grus
+  - [ ] **Ecosystem:** [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+  - [ ] **NumPy:** [From Python to Numpy | Book](https://www.labri.fr/perso/nrougier/from-python-to-numpy/)
+  - [ ] **Pandas:** [Python for Data Analysis | Book](https://wesmckinney.com/book/)
 - [ ] Algebra
   - Done during JEE prep
   - [ ] [College Algebra in Python using Numpy, Pandas, Matplotlib, and SymPy](https://youtu.be/i7vOAcUo5iA?si=VGtYR-ZgFNBqPsKN)
@@ -82,6 +83,7 @@ MAIN PROJECT: Learn scipy + manim
   - [ ] [Linear Algebra by Gilbert Strang | MIT OCW](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)
   - [ ] [Applying Linear Algebra by Gilbert Strang | MIT OCW](https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)
   - [ ] MINI-PROJECT: Linear Algebra explainer using Manim?
+  - [ ] [Linear Algebra Done Wrong](https://sites.google.com/a/brown.edu/sergei-treil-homepage/linear-algebra-done-wrong)
   - [ ] [Linear Algebra Done Right](https://linear.axler.net/LADR4e.pdf)
 - [ ] Multi-variable calculus
   - [ ] [Multivariable Calculus | MIT](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/)
@@ -90,35 +92,55 @@ MAIN PROJECT: Learn scipy + manim
   - [ ] [Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
   - [ ] [Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
   - [ ] [Statistical Learning with Python by Stanford University on EdX](https://www.edx.org/learn/python/stanford-university-statistical-learning-with-python) ([Textbook](https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html), [Textbook resources](https://www.statlearning.com/resources-python))
+  - [ ] [Practical Statistics for Data Scientists | Book by Peter Bruce & Andrew Bruce](https://github.com/Muslekh/Notes/blob/master/Peter%20Bruce%2C%20Andrew%20Bruce%20-%20Practical%20statistics%20for%20data%20scientists_%2050%20essential%20concepts-O%E2%80%99Reilly%20(2017).pdf)
+  - [ ] [Online Statistics Book](https://onlinestatbook.com/)
+- [ ] [Python Programming And Numerical Methods: A Guide For Engineers And Scientists](https://pythonnumericalmethods.studentorg.berkeley.edu/)
 
 SHIP:
 
 
 ## Classical Machine Learning from Scratch
 https://github.com/ujjwalkarn/Machine-Learning-Tutorials
-ORIENT: Learn Weka + Kaggle courses + Hands-on ML
+ORIENT: Learn AutoML(?) + Kaggle courses
 MAIN PROJECT: Kaggle
 
 - AngrewNg ML Specialisation
 - [Maths for ML](https://mml-book.github.io/book/mml-book.pdf)
 - CS229
 - [100 Days of Machine Learning | CampusX](https://www.youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH)
+- **scikit-learn:** [Introduction to Machine Learning with Python](https://www.nrigroupindia.com/e-book/Introduction%20to%20Machine%20Learning%20with%20Python%20(%20PDFDrive.com%20)-min.pdf)
+- **Building on scikit-learn**: [Python Machine Learning](https://jcer.in/jcer-docs/E-Learning/Digital%20Library%20/E-Books/python-machine-learning-and-deep-learning-with-python-scikit-learn-and-tensorflow-2.pdf)
 - Hands-on ML with scikit-learn and PyTorch
 - https://pclub.in/roadmap/2024/06/06/ml-roadmap/
 - ISLP
+- **Feature Engineering:** [Feature Engineering for Machine Learning](https://github.com/Shubham-Kr-Shaw/Books_and_study_materials/blob/main/Feature%20Engineering%20for%20Machine%20Learning%20Principles%20and%20Techniques%20for%20Data%20Scientists%20by%20Alice%20Zheng%2C%20Amanda%20Casari%20(z-lib.org).pdf)
  
 
-## Deep Learning
+## Deep Learning from Scratch
 MAIN PROJECT: Get one research paper published
 - AndrewNg DL Specialisation
 - [3b1b's Neural Networks Playlist](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=EuQYcSHMkbrD7OFM)
 - [Deep Learning book by Ian Goodfellow](https://www.deeplearningbook.org/)
 - [Neural Networks: Zero to Hero by Andrej Karpathy](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
 - [100 Days of Deep Learning | CampusX](https://www.youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn)
+- [Practical Deep Learning for Coders](https://course.fast.ai/)
+- **PyTorch:** [Deep Learning with PyTorch](https://isip.piconepress.com/courses/temple/ece_4822/resources/books/Deep-Learning-with-PyTorch.pdf)
+- **Keras + Projects:** [Deep Learning with Python](https://sourestdeeds.github.io/pdf/Deep%20Learning%20with%20Python.pdf)
+- Bayesian Methods for Hackers + Probabilistic Deep Learning
+- **GenAI:** [Generative Deep Learning](https://urn.ub.unibe.ch/urn:ch:slsp:zbz:9781098134181:ihv:pdf)
 COLD EMAIL: 
+
+### Architecture & Patterns(?)
+11. Machine Learning Design Patterns (Valliappa Lakshmanan, Sara Robinson & Michael Munn)
+    A cookbook of repeatable solutions: data ingestion, batch vs. streaming inference, A/B testing, etc.
+12. Designing Machine Learning Systems (Chip Huyền)
+    Holistic systems thinking: data ownership, retraining schedules, monitoring and feedback loops.
+13. AI Engineering (Chip Huyền)
+    How to select foundation models, define benchmarks, and deploy scalable AI services.
 
 ## Explainable AI
 https://github.com/altamiracorp/awesome-xai#repositories
+- [ ] [Interpretable Machine Learning | Book](https://christophm.github.io/interpretable-ml-book/)
 
 
 ## Core CS
@@ -131,11 +153,14 @@ MAIN PROJECT:
   - [ ] LeetCode
   - [ ] [CP](https://pclub.in/roadmap/2024/07/21/cp-roadmap/)
 - [ ] DBMS from scratch
-- [ ] System Design
+- [ ] **System Design:** Designing Data-Intensive Applications (Martin Kleppmann)
 - [ ] OS from scratch in C
 - [ ] CN
 
 ## MLOps
+- MLOps: Continuous Delivery and Automation for Machine Learning (Mark Treveil & Alok Shukla)
+- Kubeflow for Machine Learning: From Lab to Production (Trevor Grant et al.)
+- Observability Engineering (Charity Majors, Liz Fong-Jones & George Miranda)Master logs, metrics and tracing for reliable, performant ML services
 
 
 ## Core Physics and Quantum Physics
