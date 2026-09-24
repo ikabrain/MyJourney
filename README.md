@@ -96,6 +96,7 @@ MAIN PROJECT: Learn numpy, pandas, plt, seaborn, sympy, scipy, manim
   - [ ] PRACTICAL: [Statistical Learning with Python by Stanford University on EdX](https://www.edx.org/learn/python/stanford-university-statistical-learning-with-python) ([Textbook](https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html), [Textbook resources](https://www.statlearning.com/resources-python))
   - [ ] [Practical Statistics for Data Scientists | Book by Peter Bruce & Andrew Bruce](https://github.com/Muslekh/Notes/blob/master/Peter%20Bruce%2C%20Andrew%20Bruce%20-%20Practical%20statistics%20for%20data%20scientists_%2050%20essential%20concepts-O%E2%80%99Reilly%20(2017).pdf)
   - [ ] [Online Statistics Book](https://onlinestatbook.com/)
+- [ ] Econometrics
 - [ ] PRACTICAL: [Python Programming And Numerical Methods: A Guide For Engineers And Scientists](https://pythonnumericalmethods.studentorg.berkeley.edu/)
 
 SHIP:
