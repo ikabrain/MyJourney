@@ -21,6 +21,7 @@
 - [x] [Daily meditation](https://www.atomei.app/)
 - [x] [Daily fitness](https://www.hevyapp.com/)
 - [ ] Daily Chess
+- [ ] Find a mentor
 
 
 ## Python Programming & Basic Computer Science
