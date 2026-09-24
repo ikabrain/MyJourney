@@ -7,6 +7,7 @@
 - [Mathematics for Data Science](https://github.com/ikabrain/MyJourney#mathematics-for-data-science)
 - [Classical Machine Learning from Scratch](https://github.com/ikabrain/MyJourney#classical-machine-learning-from-scratch)
 - [Deep Learning from Scratch](https://github.com/ikabrain/MyJourney#deep-learning-from-scratch)
+- [Agentic AI](https://github.com/ikabrain/MyJourney#agentic-ai)
 - [Explainable AI](https://github.com/ikabrain/MyJourney#explainable-ai)
 - [Core CS](https://github.com/ikabrain/MyJourney#core-cs)
 - [MLOps](https://github.com/ikabrain/MyJourney#mlops)
@@ -129,6 +130,8 @@ MAIN PROJECT: Get one research paper published
 - Bayesian Methods for Hackers + Probabilistic Deep Learning
 - **GenAI:** [Generative Deep Learning](https://urn.ub.unibe.ch/urn:ch:slsp:zbz:9781098134181:ihv:pdf)
 COLD EMAIL: 
+
+## Agentic AI
 
 ### Architecture & Patterns(?)
 11. Machine Learning Design Patterns (Valliappa Lakshmanan, Sara Robinson & Michael Munn)
