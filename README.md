@@ -135,6 +135,11 @@ COLD EMAIL:
 
 ## Agentic AI
 
+## INTERNSHIP
+- [ ] Intern @ EdMyst
+- [ ] Intern @ Research
+- [ ] ...
+
 ### Architecture & Patterns(?)
 11. Machine Learning Design Patterns (Valliappa Lakshmanan, Sara Robinson & Michael Munn)
     A cookbook of repeatable solutions: data ingestion, batch vs. streaming inference, A/B testing, etc.
