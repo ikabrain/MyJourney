@@ -58,7 +58,7 @@ MAIN PROJECT: Take part in 3 hackathons + win one; 3 FOSS projects!
 - [ ] [Programming for the Puzzled](https://ocw.mit.edu/courses/6-s095-programming-for-the-puzzled-january-iap-2018/)
 - [ ] [Introduction to Computational Thinking](https://ocw.mit.edu/courses/18-s191-introduction-to-computational-thinking-fall-2020/)
   - [ ] FINAL MINI-PROJECT:
-- [ ] Find a mentor
+- [ ] Find mentors + groups for GATE, GRE, and ML Research
 
 
 ## Mathematics for Data Science
