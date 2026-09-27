@@ -5,6 +5,7 @@
 - [Python Programming & Basic Computer Science](https://github.com/ikabrain/MyJourney#python-programming--basic-computer-science)
 - [Profile Building](https://github.com/ikabrain/MyJourney#profile-building)
 - [Mathematics for Data Science](https://github.com/ikabrain/MyJourney#mathematics-for-data-science)
+- [Programming & CS for Data Science](https://github.com/ikabrain/MyJourney#programming--cs-for-data-science)
 - [Classical Machine Learning from Scratch](https://github.com/ikabrain/MyJourney#classical-machine-learning-from-scratch)
 - [Deep Learning from Scratch](https://github.com/ikabrain/MyJourney#deep-learning-from-scratch)
 - [Agentic AI](https://github.com/ikabrain/MyJourney#agentic-ai)
@@ -65,13 +66,6 @@ MAIN PROJECT: Take part in 3 hackathons + win one; 3 FOSS projects!
 
 ## Mathematics for Data Science
 (M4ML Book & ICL course & DeepLearning.AI course???)
-MAIN PROJECT: Learn numpy, pandas, plt, seaborn, sympy, scipy, manim
-- [ ] Python for Data Science
-  - [ ] [Data Wrangling with Python](https://github.com/Shubham-Kr-Shaw/Books_and_study_materials/blob/main/Data%20Wrangling%20with%20Python%20Tips%20and%20Tools%20to%20Make%20Your%20Life%20Easier%20by%20Jacqueline%20Kazil%2C%20Katharine%20Jarmul%20(z-lib.org).pdf)
-  - [ ] **Foundations:** Data Science from Scratch | Book by Joel Grus
-  - [ ] **Ecosystem:** [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
-  - [ ] **NumPy:** [From Python to Numpy | Book](https://www.labri.fr/perso/nrougier/from-python-to-numpy/)
-  - [ ] **Pandas:** [Python for Data Analysis | Book](https://wesmckinney.com/book/)
 - [ ] Algebra
   - Done during JEE prep
   - [ ] PRACTICAL: [College Algebra in Python using Numpy, Pandas, Matplotlib, and SymPy](https://youtu.be/i7vOAcUo5iA?si=VGtYR-ZgFNBqPsKN)
@@ -81,20 +75,23 @@ MAIN PROJECT: Learn numpy, pandas, plt, seaborn, sympy, scipy, manim
 - [ ] Single-variable calculus
   - [ ] [Essence of Calculus](https://www.3blue1brown.com/?topic=calculus)
   - [ ] [Single Variable Calculus | MIT OCW](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/)
+  - [ ] GATE: ...
   - [ ] PRACTICAL: [College Calculus in Python using SymPy | freeCodeCamp](https://www.youtube.com/watch?v=VDFRpjQVaME)
+- [ ] Multi-variable calculus
+  - [ ] [Multivariable Calculus | MIT](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/)
 - [ ] **Linear Algebra**
   - [x] [Essence of Linear Algebra | 3b1b](https://www.3blue1brown.com/?topic=linear-algebra)
   - [ ] [Linear Algebra by Gilbert Strang | MIT OCW](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)
   - [ ] [Applying Linear Algebra by Gilbert Strang | MIT OCW](https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)
   - [ ] [Linear Algebra Done Wrong](https://sites.google.com/a/brown.edu/sergei-treil-homepage/linear-algebra-done-wrong)
   - [ ] [Linear Algebra Done Right](https://linear.axler.net/LADR4e.pdf)
+  - [ ] GATE: ...
   - [ ] PRACTICAL: [Computational Linear Algebra for Coders](https://github.com/fastai/numerical-linear-algebra)
-- [ ] Multi-variable calculus
-  - [ ] [Multivariable Calculus | MIT](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/)
 - [ ] Probability and Statistics
   - [ ] [Harvard's Stat110](https://stat110.hsites.harvard.edu/)
   - [ ] [Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
   - [ ] [Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
+  - [ ] GATE: ...
   - [ ] PRACTICAL: [Statistical Learning with Python by Stanford University on EdX](https://www.edx.org/learn/python/stanford-university-statistical-learning-with-python) ([Textbook](https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html), [Textbook resources](https://www.statlearning.com/resources-python))
   - [ ] [Practical Statistics for Data Scientists | Book by Peter Bruce & Andrew Bruce](https://github.com/Muslekh/Notes/blob/master/Peter%20Bruce%2C%20Andrew%20Bruce%20-%20Practical%20statistics%20for%20data%20scientists_%2050%20essential%20concepts-O%E2%80%99Reilly%20(2017).pdf)
   - [ ] [Online Statistics Book](https://onlinestatbook.com/)
@@ -103,6 +100,34 @@ MAIN PROJECT: Learn numpy, pandas, plt, seaborn, sympy, scipy, manim
 
 SHIP:
 
+## Programming & CS for Data Science
+MAIN PROJECT: Learn numpy, pandas, plt, seaborn, sympy, scipy, manim
+
+- [ ] Python for Data Science
+  - [ ] [Data Wrangling with Python](https://github.com/Shubham-Kr-Shaw/Books_and_study_materials/blob/main/Data%20Wrangling%20with%20Python%20Tips%20and%20Tools%20to%20Make%20Your%20Life%20Easier%20by%20Jacqueline%20Kazil%2C%20Katharine%20Jarmul%20(z-lib.org).pdf)
+  - [ ] **Foundations:** Data Science from Scratch | Book by Joel Grus
+  - [ ] **Ecosystem:** [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+  - [ ] **NumPy:** [From Python to Numpy | Book](https://www.labri.fr/perso/nrougier/from-python-to-numpy/)
+  - [ ] **Pandas:** [Python for Data Analysis | Book](https://wesmckinney.com/book/)
+
+- [ ] Discrete Mathematics
+- [ ] OOD in C++ and/or Python
+- [ ] DSA in C++ and/or Python
+  - [ ] Data Structures in C++ and/or Python
+  - [ ] Algorithms in C++ and/or Python
+  - [ ] GATE: [Data Structures and Algorithms for GATE | Amit Khurana](https://www.youtube.com/playlist?list=PLC36xJgs4dxFCQVvjMrrjcY3XrcMm2GHy)
+  - [ ] LeetCode
+  - [ ] [CP](https://pclub.in/roadmap/2024/07/21/cp-roadmap/)
+
+- [ ] DBMS & SQL
+  - Make my own DBMS from scratch
+  - [ ] GATE: [Database Management Systems | IIT-M](https://www.youtube.com/playlist?list=PLZ2ps__7DhBYc4jkUk_yQAjYEVFzVzhdU)
+
+- [ ] GATE: ...
+
+## AI Foundations
+- GATE: [An Introduction to Artificial Intelligence | NPTEL IIT Delhi](https://www.youtube.com/playlist?list=PLp6ek2hDcoNB_YJCruBFjhF79f5ZHyBuz)
+- AI Coding
 
 ## Classical Machine Learning from Scratch
 https://github.com/ujjwalkarn/Machine-Learning-Tutorials
@@ -119,6 +144,7 @@ MAIN PROJECT: Kaggle
 - https://pclub.in/roadmap/2024/06/06/ml-roadmap/
 - ISLP
 - **Feature Engineering:** [Feature Engineering for Machine Learning](https://github.com/Shubham-Kr-Shaw/Books_and_study_materials/blob/main/Feature%20Engineering%20for%20Machine%20Learning%20Principles%20and%20Techniques%20for%20Data%20Scientists%20by%20Alice%20Zheng%2C%20Amanda%20Casari%20(z-lib.org).pdf)
+- GATE: [Machine Learning Techniques | IIT-M](https://www.youtube.com/playlist?list=PLZ2ps__7DhBbA_e6_G3FI-BA1f7lCINUu)
  
 
 ## Deep Learning from Scratch
@@ -129,6 +155,7 @@ MAIN PROJECT: Get one research paper published
 - [Neural Networks: Zero to Hero by Andrej Karpathy](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
 - [100 Days of Deep Learning | CampusX](https://www.youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn)
 - [Practical Deep Learning for Coders](https://course.fast.ai/)
+- GATE: ...
 - **PyTorch:** [Deep Learning with PyTorch](https://isip.piconepress.com/courses/temple/ece_4822/resources/books/Deep-Learning-with-PyTorch.pdf)
 - **Keras + Projects:** [Deep Learning with Python](https://sourestdeeds.github.io/pdf/Deep%20Learning%20with%20Python.pdf)
 - Bayesian Methods for Hackers + Probabilistic Deep Learning
@@ -142,14 +169,6 @@ COLD EMAIL:
 - [ ] Intern @ Research
 - [ ] ...
 
-### Architecture & Patterns(?)
-11. Machine Learning Design Patterns (Valliappa Lakshmanan, Sara Robinson & Michael Munn)
-    A cookbook of repeatable solutions: data ingestion, batch vs. streaming inference, A/B testing, etc.
-12. Designing Machine Learning Systems (Chip Huyền)
-    Holistic systems thinking: data ownership, retraining schedules, monitoring and feedback loops.
-13. AI Engineering (Chip Huyền)
-    How to select foundation models, define benchmarks, and deploy scalable AI services.
-
 ## Explainable AI
 https://github.com/altamiracorp/awesome-xai#repositories
 - [ ] [Interpretable Machine Learning | Book](https://christophm.github.io/interpretable-ml-book/)
@@ -157,17 +176,15 @@ https://github.com/altamiracorp/awesome-xai#repositories
 
 ## Core CS
 MAIN PROJECT: 
-- [ ] Discrete Mathematics
-- [ ] OOD in C++ and/or Python
-- [ ] DSA in C++ and/or Python
-  - [ ] Data Structures in C++ and/or Python
-  - [ ] Algorithms in C++ and/or Python
-  - [ ] LeetCode
-  - [ ] [CP](https://pclub.in/roadmap/2024/07/21/cp-roadmap/)
-- [ ] DBMS from scratch
-- [ ] **System Design:** Designing Data-Intensive Applications (Martin Kleppmann)
-- [ ] OS from scratch in C
-- [ ] CN
+- **System Design:** Designing Data-Intensive Applications (Martin Kleppmann)
+  - Machine Learning Design Patterns (Valliappa Lakshmanan, Sara Robinson & Michael Munn)
+    A cookbook of repeatable solutions: data ingestion, batch vs. streaming inference, A/B testing, etc.
+  - Designing Machine Learning Systems (Chip Huyền)
+    Holistic systems thinking: data ownership, retraining schedules, monitoring and feedback loops.
+  - AI Engineering (Chip Huyền)
+    How to select foundation models, define benchmarks, and deploy scalable AI services.
+- OS from scratch in C
+- CN
 
 ## MLOps
 - MLOps: Continuous Delivery and Automation for Machine Learning (Mark Treveil & Alok Shukla)
