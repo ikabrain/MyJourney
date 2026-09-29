@@ -62,11 +62,11 @@ MAIN PROJECT: Take part in 3 hackathons + win one; 3 FOSS projects!
 - [ ] [Introduction to Computational Thinking](https://ocw.mit.edu/courses/18-s191-introduction-to-computational-thinking-fall-2020/)
   - [ ] FINAL MINI-PROJECT:
 - [ ] Find mentors + groups for GATE, GRE, and ML Research
-
+- [x] Dev Intern @ EdMyst
 
 ## Mathematics for Data Science
 (M4ML Book & ICL course & DeepLearning.AI course???)
-- [ ] Algebra
+- [ ] Basic Arithmetic + Algebra
   - Done during JEE prep
   - [ ] PRACTICAL: [College Algebra in Python using Numpy, Pandas, Matplotlib, and SymPy](https://youtu.be/i7vOAcUo5iA?si=VGtYR-ZgFNBqPsKN)
 - [ ] Pre-calculus
@@ -95,7 +95,10 @@ MAIN PROJECT: Take part in 3 hackathons + win one; 3 FOSS projects!
   - [ ] PRACTICAL: [Statistical Learning with Python by Stanford University on EdX](https://www.edx.org/learn/python/stanford-university-statistical-learning-with-python) ([Textbook](https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html), [Textbook resources](https://www.statlearning.com/resources-python))
   - [ ] [Practical Statistics for Data Scientists | Book by Peter Bruce & Andrew Bruce](https://github.com/Muslekh/Notes/blob/master/Peter%20Bruce%2C%20Andrew%20Bruce%20-%20Practical%20statistics%20for%20data%20scientists_%2050%20essential%20concepts-O%E2%80%99Reilly%20(2017).pdf)
   - [ ] [Online Statistics Book](https://onlinestatbook.com/)
+- [ ] Differential Equations
+  - [ ] [Differential Equations | MIT](https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/)
 - [ ] Econometrics
+- [ ] Proofs & Discrete Mathematics
 - [ ] PRACTICAL: [Python Programming And Numerical Methods: A Guide For Engineers And Scientists](https://pythonnumericalmethods.studentorg.berkeley.edu/)
 
 SHIP:
@@ -110,7 +113,6 @@ MAIN PROJECT: Learn numpy, pandas, plt, seaborn, sympy, scipy, manim
   - [ ] **NumPy:** [From Python to Numpy | Book](https://www.labri.fr/perso/nrougier/from-python-to-numpy/)
   - [ ] **Pandas:** [Python for Data Analysis | Book](https://wesmckinney.com/book/)
 
-- [ ] Discrete Mathematics
 - [ ] OOD in C++ and/or Python
 - [ ] DSA in C++ and/or Python
   - [ ] Data Structures in C++ and/or Python
@@ -164,9 +166,9 @@ COLD EMAIL:
 
 ## Agentic AI
 
-## INTERNSHIP
-- [ ] Intern @ EdMyst
+## RESEARCH INTERNSHIP
 - [ ] Intern @ Research
+  - [ ] https://discoverlabs.org/find
 - [ ] ...
 
 ## Explainable AI
