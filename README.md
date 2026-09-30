@@ -134,7 +134,10 @@ MAIN PROJECT: Learn numpy, pandas, plt, seaborn, sympy, scipy, manim
 ## Classical Machine Learning from Scratch
 https://github.com/ujjwalkarn/Machine-Learning-Tutorials
 ORIENT: Learn AutoML(?) + Kaggle courses
-MAIN PROJECT: Kaggle
+MAIN PROJECT: Kaggle + https://github.com/shsarv/machine-learning-Projects#-classical-ml--prediction
+
+- Google's ML Crash Course
+- Kaggle's Intro to ML
 
 - AngrewNg ML Specialisation
 - [Maths for ML](https://mml-book.github.io/book/mml-book.pdf)
