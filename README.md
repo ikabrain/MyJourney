@@ -191,6 +191,8 @@ MAIN PROJECT:
 - OS from scratch in C
 - CN
 
+- Information Theory
+
 ## MLOps
 - MLOps: Continuous Delivery and Automation for Machine Learning (Mark Treveil & Alok Shukla)
 - Kubeflow for Machine Learning: From Lab to Production (Trevor Grant et al.)
