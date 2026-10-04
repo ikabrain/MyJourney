@@ -3,7 +3,7 @@
 ## 📋 Table of Contents
 - [Before we start](https://github.com/ikabrain/MyJourney#before-we-start)
 - [Python Programming & Basic Computer Science](https://github.com/ikabrain/MyJourney#python-programming--basic-computer-science)
-- [Profile Building](https://github.com/ikabrain/MyJourney#profile-building)
+- Profile Building <!--https://github.com/ikabrain/MyJourney#profile-building-->
 - [Mathematics for Data Science](https://github.com/ikabrain/MyJourney#mathematics-for-data-science)
 - [Programming & CS for Data Science](https://github.com/ikabrain/MyJourney#programming--cs-for-data-science)
 - [Classical Machine Learning from Scratch](https://github.com/ikabrain/MyJourney#classical-machine-learning-from-scratch)
@@ -37,7 +37,6 @@ MAIN PROJECT: [How can I make my own 2D arcade video game with intelligent enemi
 - [ ] Introductory Dev
   - [ ] [CS50W](https://cs50.harvard.edu/web/) for Django
   - [ ] MINI-PROJECT: Create a website connecting NGOs to volunteers (HackTU)
-  - [ ] MINI-PROJECT: Create my own portfolio website inspired from [this](https://www.youtube.com/playlist?list=PL6QREj8te1P7rEwj_IzsoLzQ-FBbZ6lqP)
   - [ ] PROJECT: Website for [the game](https://github.com/ikabrain/astro-game)
 - [ ] Introductory AI
   - [ ] [CS50AI](https://cs50.harvard.edu/ai/)
@@ -54,10 +53,11 @@ MAIN PROJECT: [How can I make my own 2D arcade video game with intelligent enemi
 
 SHIP: 
 
-## Profile Building
+## Profile Building with Web Dev
 MAIN PROJECT: Take part in 3 hackathons + win one; 3 FOSS projects!
 
-- MERN stack + AI-assissted Dev
+- MERN stack + AI-assissted Dev + TOP
+  - [ ] MINI-PROJECT: Create my own portfolio website inspired from [this](https://www.youtube.com/playlist?list=PL6QREj8te1P7rEwj_IzsoLzQ-FBbZ6lqP)
 - [ ] [Programming for the Puzzled](https://ocw.mit.edu/courses/6-s095-programming-for-the-puzzled-january-iap-2018/)
 - [ ] [Introduction to Computational Thinking](https://ocw.mit.edu/courses/18-s191-introduction-to-computational-thinking-fall-2020/)
   - [ ] FINAL MINI-PROJECT:
