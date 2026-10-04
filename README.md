@@ -1,5 +1,7 @@
 # 🚀 My Learning Journey
 
+> *"Your job isn't to just learn and apply the rules; your main purpose, is to break them."*
+
 ## 📋 Table of Contents
 - [Before we start](https://github.com/ikabrain/MyJourney#before-we-start)
 - [Python Programming & Basic Computer Science](https://github.com/ikabrain/MyJourney#python-programming--basic-computer-science)
