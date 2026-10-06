@@ -63,7 +63,7 @@ MAIN PROJECT: Take part in 3 hackathons + win one; 3 FOSS projects!
   - [ ] MINI-PROJECT: Create my own portfolio website inspired from [this](https://www.youtube.com/playlist?list=PL6QREj8te1P7rEwj_IzsoLzQ-FBbZ6lqP)
 - RUST AND GO
 - [ ] [Programming for the Puzzled](https://ocw.mit.edu/courses/6-s095-programming-for-the-puzzled-january-iap-2018/)
-- [ ] [Introduction to Computational Thinking](https://ocw.mit.edu/courses/18-s191-introduction-to-computational-thinking-fall-2020/)
+- [ ] [JULIA | Introduction to Computational Thinking](https://ocw.mit.edu/courses/18-s191-introduction-to-computational-thinking-fall-2020/)
   - [ ] FINAL MINI-PROJECT:
 - [ ] Find mentors + groups for GATE, GRE, and ML Research
 - [x] Dev Intern @ EdMyst
