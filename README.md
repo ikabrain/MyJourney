@@ -18,6 +18,7 @@
 - [Reinforcement Learning](https://github.com/ikabrain/MyJourney#reinforcement-learning)
 
 ## Before we start
+- You'll need this, watch repeatedly every now and then: [Balancing Ambition and Laziness | Mark Mason](https://www.youtube.com/watch?v=Fi4zbcRG4Ww)
 - [ ] [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
 - [ ] [Atomic Habits](https://archive.org/details/atomic-habits-pdfdrive/)
 - [ ] [Deep Work](https://cpcglobal.org/publications/Deep%20Work.pdf)
