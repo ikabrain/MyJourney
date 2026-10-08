@@ -69,8 +69,6 @@ MAIN PROJECT: Take part in 3 hackathons + win one; 3 FOSS projects!
 - [ ] Find mentors + groups for GATE, GRE, and ML Research
 - [x] Dev Intern @ EdMyst
 
-## Hardware + Systems Programming
-- Arduino etc
 
 ## Mathematics for Data Science
 (M4ML Book & ICL course & DeepLearning.AI course???)
@@ -176,6 +174,10 @@ MAIN PROJECT: Get one research paper published
 COLD EMAIL: 
 
 ## Agentic AI
+
+
+## Hardware + Systems Programming
+- Arduino etc
 
 ## RESEARCH INTERNSHIP
 - [ ] Intern @ Research
