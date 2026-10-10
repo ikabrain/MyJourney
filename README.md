@@ -63,8 +63,10 @@ MAIN PROJECT: Take part in 3 hackathons + win one; 3 FOSS projects!
 
 - MENTOR: Paras Gupta
 - COMMUNITY: Observal & Manware
-- MERN stack + AI-assissted Dev + TOP
+- TOP -> FullStackOpen -> [React | Scrimba](https://scrimba.com/learn-react-c0e) -> React Docs
+- MERN / PERN stack + AI-assissted Dev
   - [ ] MINI-PROJECT: Create my own portfolio website inspired from [this](https://www.youtube.com/playlist?list=PL6QREj8te1P7rEwj_IzsoLzQ-FBbZ6lqP)
+  - https://www.frontendmentor.io/
 - RUST AND GO
 - [ ] [Programming for the Puzzled](https://ocw.mit.edu/courses/6-s095-programming-for-the-puzzled-january-iap-2018/)
 - [ ] [JULIA | Introduction to Computational Thinking](https://ocw.mit.edu/courses/18-s191-introduction-to-computational-thinking-fall-2020/)
