@@ -105,11 +105,12 @@ MAIN PROJECT: Take part in 3 hackathons + win one; 3 FOSS projects!
   - [ ] [Differential Equations | MIT](https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/)
 - [ ] Econometrics
 - [ ] Proofs & Discrete Mathematics
+- [ ] Information Theory
 - [ ] PRACTICAL: [Python Programming And Numerical Methods: A Guide For Engineers And Scientists](https://pythonnumericalmethods.studentorg.berkeley.edu/)
 
 SHIP:
 
-## Programming & CS for Data Science
+## Python for Data Science
 MAIN PROJECT: Learn numpy, pandas, plt, seaborn, sympy, scipy, manim
 
 - [ ] Python for Data Science
@@ -118,20 +119,7 @@ MAIN PROJECT: Learn numpy, pandas, plt, seaborn, sympy, scipy, manim
   - [ ] **Ecosystem:** [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
   - [ ] **NumPy:** [From Python to Numpy | Book](https://www.labri.fr/perso/nrougier/from-python-to-numpy/)
   - [ ] **Pandas:** [Python for Data Analysis | Book](https://wesmckinney.com/book/)
-
-- [ ] OOD in C++ and/or Python
-- [ ] DSA in C++ and/or Python
-  - [ ] Data Structures in C++ and/or Python
-  - [ ] Algorithms in C++ and/or Python
-  - [ ] GATE: [Data Structures and Algorithms for GATE | Amit Khurana](https://www.youtube.com/playlist?list=PLC36xJgs4dxFCQVvjMrrjcY3XrcMm2GHy)
-  - [ ] LeetCode
-  - [ ] [CP](https://pclub.in/roadmap/2024/07/21/cp-roadmap/)
-
-- [ ] DBMS & SQL
-  - Make my own DBMS from scratch
-  - [ ] GATE: [Database Management Systems | IIT-M](https://www.youtube.com/playlist?list=PLZ2ps__7DhBYc4jkUk_yQAjYEVFzVzhdU)
-
-- [ ] GATE: ...
+  - [ ] DSA in Python
 
 ## AI Foundations
 - GATE: [An Introduction to Artificial Intelligence | NPTEL IIT Delhi](https://www.youtube.com/playlist?list=PLp6ek2hDcoNB_YJCruBFjhF79f5ZHyBuz)
@@ -176,8 +164,6 @@ COLD EMAIL:
 ## Agentic AI
 
 
-## Hardware + Systems Programming
-- Arduino etc
 
 ## RESEARCH INTERNSHIP
 - [ ] Intern @ Research
@@ -191,6 +177,26 @@ https://github.com/altamiracorp/awesome-xai#repositories
 
 ## Core CS
 MAIN PROJECT: 
+- [ ] Systems Programming with C and C++
+  - [ ] Arduino
+- [ ] OOD in C++
+- [ ] DSA in C++
+  - [ ] Data Structures in C++ and/or Python
+  - [ ] Algorithms in C++ and/or Python
+  - [ ] GATE: [Data Structures and Algorithms for GATE | Amit Khurana](https://www.youtube.com/playlist?list=PLC36xJgs4dxFCQVvjMrrjcY3XrcMm2GHy)
+  - [ ] LeetCode
+  - [ ] [CP](https://pclub.in/roadmap/2024/07/21/cp-roadmap/)
+
+- [ ] COA
+  - [ ] MINI-PROJECT: Ben Eater Breadboard computer
+- [ ] OS
+  - [ ] MINI-PROJECT: My own OS from scratch in C
+- [ ] CN
+- [ ] DBMS & SQL
+  - [ ] Make my own DBMS from scratch
+  - [ ] GATE: [Database Management Systems | IIT-M](https://www.youtube.com/playlist?list=PLZ2ps__7DhBYc4jkUk_yQAjYEVFzVzhdU)
+- [ ] Version Control
+  - [ ] Git from scratch
 - **System Design:** Designing Data-Intensive Applications (Martin Kleppmann)
   - Machine Learning Design Patterns (Valliappa Lakshmanan, Sara Robinson & Michael Munn)
     A cookbook of repeatable solutions: data ingestion, batch vs. streaming inference, A/B testing, etc.
@@ -198,10 +204,7 @@ MAIN PROJECT:
     Holistic systems thinking: data ownership, retraining schedules, monitoring and feedback loops.
   - AI Engineering (Chip Huyền)
     How to select foundation models, define benchmarks, and deploy scalable AI services.
-- OS from scratch in C
-- CN
 
-- Information Theory
 
 ## MLOps
 - MLOps: Continuous Delivery and Automation for Machine Learning (Mark Treveil & Alok Shukla)
