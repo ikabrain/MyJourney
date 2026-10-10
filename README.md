@@ -25,8 +25,8 @@
 - [ ] The Psychology of Money
 - [x] [Daily meditation](https://www.atomei.app/)
 - [x] [Daily fitness](https://www.hevyapp.com/)
-- [ ] Daily Chess
-- [ ] Find a mentor
+- [x] Daily Chess
+- [x] Connect with professor(s)
 
 
 ## Python Programming & Basic Computer Science
@@ -61,7 +61,8 @@ SHIP:
 ## Profile Building with Web Dev
 MAIN PROJECT: Take part in 3 hackathons + win one; 3 FOSS projects!
 
-- Join community: Observal & Manware
+- MENTOR: Paras Gupta
+- COMMUNITY: Observal & Manware
 - MERN stack + AI-assissted Dev + TOP
   - [ ] MINI-PROJECT: Create my own portfolio website inspired from [this](https://www.youtube.com/playlist?list=PL6QREj8te1P7rEwj_IzsoLzQ-FBbZ6lqP)
 - RUST AND GO
@@ -73,7 +74,8 @@ MAIN PROJECT: Take part in 3 hackathons + win one; 3 FOSS projects!
 
 ## Mathematics for Data Science
 (M4ML Book & ICL course & DeepLearning.AI course???)
-- [ ] Join a community
+- [ ] AI/ML MENTOR:
+- [ ] AI/ML & MATH COMMUNITY: [EleutherAI](https://eleuther.ai/)
 - [ ] Basic Arithmetic + Algebra
   - Done during JEE prep
   - [ ] PRACTICAL: [College Algebra in Python using Numpy, Pandas, Matplotlib, and SymPy](https://youtu.be/i7vOAcUo5iA?si=VGtYR-ZgFNBqPsKN)
@@ -126,7 +128,6 @@ MAIN PROJECT: Learn numpy, pandas, plt, seaborn, sympy, scipy, manim
 ## AI Foundations
 - GATE: [An Introduction to Artificial Intelligence | NPTEL IIT Delhi](https://www.youtube.com/playlist?list=PLp6ek2hDcoNB_YJCruBFjhF79f5ZHyBuz)
 - AI Coding
-- Join AI & ML & Research community
 
 ## Classical Machine Learning from Scratch
 https://github.com/ujjwalkarn/Machine-Learning-Tutorials
