@@ -176,7 +176,9 @@ COLD EMAIL:
 
 ## Explainable AI
 https://github.com/altamiracorp/awesome-xai#repositories
+- Mech Interp Discord
 - [ ] [Interpretable Machine Learning | Book](https://christophm.github.io/interpretable-ml-book/)
+- Mechanical Interpretability
 
 
 ## Core CS
