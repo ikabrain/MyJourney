@@ -26,16 +26,18 @@
 - [x] [Daily meditation](https://www.atomei.app/)
 - [x] [Daily fitness](https://www.hevyapp.com/)
 - [ ] Daily Chess
+- [ ] Find a mentor
 
 
 ## Python Programming & Basic Computer Science
 ORIENT: Python from Class 11 & 12  
 MAIN PROJECT: [How can I make my own 2D arcade video game with intelligent enemies?](https://github.com/ikabrain/astro-game)
 
+- [x] Join r/cs50, r/learnprogramming, CS50 Discord
 - [x] Python
   - [x] [CS50P](https://cs50.harvard.edu/python/)
   - [x] MINI-PROJECT: [Runner Game in Python](https://github.com/ikabrain/pixel-runner)
-- [ ] Introductory CS
+- [x] Introductory CS
   - [x] [CS50x](https://cs50.harvard.edu/x/)
   - [ ] PROJECT: [Actual fleshed-out game in Godot](https://github.com/ikabrain/astro-game)
 - [ ] Introductory Dev
@@ -51,7 +53,6 @@ MAIN PROJECT: [How can I make my own 2D arcade video game with intelligent enemi
   - [x] [Learn Git & GitHub](https://www.youtube.com/watch?v=apGV9Kg7ics)
   - [x] Choose AI Agent ([Claude Code](https://www.youtube.com/playlist?list=PLKnIA16_RmvaYH3poI0oJvbDF4zEvpq8W))
   - [ ] [Missing Semester of CS](https://missing.csail.mit.edu/)
-  - [ ] MINI-PROJECT: Deploy my portfolio website + add new elements using AI
   - [ ] MINI-PROJECT: Deploy the NGO website + improve using AI
   - [ ] PROJECT: Make [the game](https://github.com/ikabrain/astro-game) more FOSS and easier to work on
 
@@ -60,18 +61,19 @@ SHIP:
 ## Profile Building with Web Dev
 MAIN PROJECT: Take part in 3 hackathons + win one; 3 FOSS projects!
 
+- Join community: Observal & Manware
 - MERN stack + AI-assissted Dev + TOP
   - [ ] MINI-PROJECT: Create my own portfolio website inspired from [this](https://www.youtube.com/playlist?list=PL6QREj8te1P7rEwj_IzsoLzQ-FBbZ6lqP)
 - RUST AND GO
 - [ ] [Programming for the Puzzled](https://ocw.mit.edu/courses/6-s095-programming-for-the-puzzled-january-iap-2018/)
 - [ ] [JULIA | Introduction to Computational Thinking](https://ocw.mit.edu/courses/18-s191-introduction-to-computational-thinking-fall-2020/)
   - [ ] FINAL MINI-PROJECT:
-- [ ] Find mentors + groups for GATE, GRE, and ML Research
 - [x] Dev Intern @ EdMyst
 
 
 ## Mathematics for Data Science
 (M4ML Book & ICL course & DeepLearning.AI course???)
+- [ ] Join a community
 - [ ] Basic Arithmetic + Algebra
   - Done during JEE prep
   - [ ] PRACTICAL: [College Algebra in Python using Numpy, Pandas, Matplotlib, and SymPy](https://youtu.be/i7vOAcUo5iA?si=VGtYR-ZgFNBqPsKN)
@@ -124,6 +126,7 @@ MAIN PROJECT: Learn numpy, pandas, plt, seaborn, sympy, scipy, manim
 ## AI Foundations
 - GATE: [An Introduction to Artificial Intelligence | NPTEL IIT Delhi](https://www.youtube.com/playlist?list=PLp6ek2hDcoNB_YJCruBFjhF79f5ZHyBuz)
 - AI Coding
+- Join AI & ML & Research community
 
 ## Classical Machine Learning from Scratch
 https://github.com/ujjwalkarn/Machine-Learning-Tutorials
@@ -177,6 +180,7 @@ https://github.com/altamiracorp/awesome-xai#repositories
 
 ## Core CS
 MAIN PROJECT: 
+- Join CS community on Discord
 - [ ] Systems Programming with C and C++
   - [ ] Arduino
 - [ ] OOD in C++
@@ -211,6 +215,8 @@ MAIN PROJECT:
 - Kubeflow for Machine Learning: From Lab to Production (Trevor Grant et al.)
 - Observability Engineering (Charity Majors, Liz Fong-Jones & George Miranda)Master logs, metrics and tracing for reliable, performant ML services
 
+## Masters Abroad
+- Join community for GRE & Masters Abroad
 
 ## Core Physics and Quantum Physics
 - [Quantum Mechanics - For the Love of Physics](https://youtube.com/playlist?list=PLRN3HroZGu2mCtdalEmZAM2nr1xBWAtUn&si=ILqSXavYcaTNvbJ8)
