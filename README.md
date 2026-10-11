@@ -94,7 +94,7 @@ MAIN PROJECT: Take part in 3 hackathons + win one; 3 FOSS projects!
 - [ ] **Linear Algebra**
   - [x] [Essence of Linear Algebra | 3b1b](https://www.3blue1brown.com/?topic=linear-algebra)
   - [ ] [Linear Algebra by Gilbert Strang | MIT OCW](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)
-  - [ ] [Applying Linear Algebra by Gilbert Strang | MIT OCW](https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)
+  - [ ] [Matrix Methods in Data Analysis, Signal Processing, and Machine Learning by Gilbert Strang | MIT OCW](https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)
   - [ ] [Linear Algebra Done Wrong](https://sites.google.com/a/brown.edu/sergei-treil-homepage/linear-algebra-done-wrong)
   - [ ] [Linear Algebra Done Right](https://linear.axler.net/LADR4e.pdf)
   - [ ] GATE: ...
