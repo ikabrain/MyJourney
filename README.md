@@ -156,6 +156,7 @@ MAIN PROJECT: Kaggle + https://github.com/shsarv/machine-learning-Projects#-clas
 MAIN PROJECT: Get one research paper published
 - AndrewNg DL Specialisation
 - [3b1b's Neural Networks Playlist](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=EuQYcSHMkbrD7OFM)
+- [Dive into Deep Learning | Beginner + Code](https://d2l.ai/)
 - [Deep Learning book by Ian Goodfellow](https://www.deeplearningbook.org/)
 - [Neural Networks: Zero to Hero by Andrej Karpathy](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
 - [100 Days of Deep Learning | CampusX](https://www.youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn)
