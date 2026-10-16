@@ -168,20 +168,29 @@ MAIN PROJECT: Get one research paper published
 - **GenAI:** [Generative Deep Learning](https://urn.ub.unibe.ch/urn:ch:slsp:zbz:9781098134181:ihv:pdf)
 COLD EMAIL: 
 
+## Reinforcement Learning
+- [CampusX RL Crash Course](https://www.youtube.com/playlist?list=PLKnIA16_RmvbMK0_fdp0DZHZKm4Q1slAB)
+- https://pclub.in/roadmap/2025/11/01/RL-Roadmap
 ## Agentic AI
-
-
 
 ## RESEARCH INTERNSHIP
 - [ ] Intern @ Research
   - [ ] https://discoverlabs.org/find
 - [ ] ...
+## Masters Abroad
+- Join community for GRE & Masters Abroad
 
+## Core Physics and Quantum Physics
+- [Quantum Mechanics - For the Love of Physics](https://youtube.com/playlist?list=PLRN3HroZGu2mCtdalEmZAM2nr1xBWAtUn&si=ILqSXavYcaTNvbJ8)
+- Feynmann Lecture on Physics
+- Physics Projects
 ## Explainable AI
 https://github.com/altamiracorp/awesome-xai#repositories
+## Mechanistic Interpretability
 - Mech Interp Discord
 - [ ] [Interpretable Machine Learning | Book](https://christophm.github.io/interpretable-ml-book/)
-- Mechanical Interpretability
+- https://www.lesswrong.com/users/neel-nanda-1
+- https://truthful.ai/
 
 
 ## Core CS
@@ -214,21 +223,7 @@ MAIN PROJECT:
     Holistic systems thinking: data ownership, retraining schedules, monitoring and feedback loops.
   - AI Engineering (Chip Huyền)
     How to select foundation models, define benchmarks, and deploy scalable AI services.
-
-
 ## MLOps
 - MLOps: Continuous Delivery and Automation for Machine Learning (Mark Treveil & Alok Shukla)
 - Kubeflow for Machine Learning: From Lab to Production (Trevor Grant et al.)
 - Observability Engineering (Charity Majors, Liz Fong-Jones & George Miranda)Master logs, metrics and tracing for reliable, performant ML services
-
-## Masters Abroad
-- Join community for GRE & Masters Abroad
-
-## Core Physics and Quantum Physics
-- [Quantum Mechanics - For the Love of Physics](https://youtube.com/playlist?list=PLRN3HroZGu2mCtdalEmZAM2nr1xBWAtUn&si=ILqSXavYcaTNvbJ8)
-- Feynmann Lecture on Physics
-- Physics Projects
-
-## Reinforcement Learning
-- [CampusX RL Crash Course](https://www.youtube.com/playlist?list=PLKnIA16_RmvbMK0_fdp0DZHZKm4Q1slAB)
-- https://pclub.in/roadmap/2025/11/01/RL-Roadmap
