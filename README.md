@@ -180,6 +180,11 @@ COLD EMAIL:
 ## Masters Abroad
 - Join community for GRE & Masters Abroad
 
+## Psychology
+- Philosophy?
+
+## AI Ethics
+
 ## Core Physics and Quantum Physics
 - [Quantum Mechanics - For the Love of Physics](https://youtube.com/playlist?list=PLRN3HroZGu2mCtdalEmZAM2nr1xBWAtUn&si=ILqSXavYcaTNvbJ8)
 - Feynmann Lecture on Physics
