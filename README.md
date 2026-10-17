@@ -116,6 +116,30 @@ MAIN PROJECT: Take part in 3 hackathons + win one; 3 FOSS projects!
 
 SHIP:
 
+## Core CS
+MAIN PROJECT: 
+- Join CS community on Discord
+- [ ] Systems Programming with C and C++
+  - [ ] Arduino
+- [ ] OOD in C++
+- [ ] DSA in C++
+  - [ ] Data Structures in C++ and/or Python
+  - [ ] Algorithms in C++ and/or Python
+  - [ ] GATE: [Data Structures and Algorithms for GATE | Amit Khurana](https://www.youtube.com/playlist?list=PLC36xJgs4dxFCQVvjMrrjcY3XrcMm2GHy)
+  - [ ] LeetCode
+  - [ ] [CP](https://pclub.in/roadmap/2024/07/21/cp-roadmap/)
+
+- [ ] COA
+  - [ ] MINI-PROJECT: Ben Eater Breadboard computer
+- [ ] OS
+  - [ ] MINI-PROJECT: My own OS from scratch in C
+- [ ] CN
+- [ ] DBMS & SQL
+  - [ ] Make my own DBMS from scratch
+  - [ ] GATE: [Database Management Systems | IIT-M](https://www.youtube.com/playlist?list=PLZ2ps__7DhBYc4jkUk_yQAjYEVFzVzhdU)
+- [ ] Version Control
+  - [ ] Git from scratch
+
 ## Python for Data Science
 MAIN PROJECT: Learn numpy, pandas, plt, seaborn, sympy, scipy, manim
 
@@ -168,6 +192,23 @@ MAIN PROJECT: Get one research paper published
 - **GenAI:** [Generative Deep Learning](https://urn.ub.unibe.ch/urn:ch:slsp:zbz:9781098134181:ihv:pdf)
 COLD EMAIL: 
 
+## System Design & MLSD
+Designing Data-Intensive Applications (Martin Kleppmann)
+  - Machine Learning Design Patterns (Valliappa Lakshmanan, Sara Robinson & Michael Munn)
+    A cookbook of repeatable solutions: data ingestion, batch vs. streaming inference, A/B testing, etc.
+  - Designing Machine Learning Systems (Chip Huyền)
+    Holistic systems thinking: data ownership, retraining schedules, monitoring and feedback loops.
+  - AI Engineering (Chip Huyền)
+    How to select foundation models, define benchmarks, and deploy scalable AI services.
+## MLOps
+- MLOps: Continuous Delivery and Automation for Machine Learning (Mark Treveil & Alok Shukla)
+- Kubeflow for Machine Learning: From Lab to Production (Trevor Grant et al.)
+- Observability Engineering (Charity Majors, Liz Fong-Jones & George Miranda)Master logs, metrics and tracing for reliable, performant ML services
+
+## Psychology
+- Philosophy?
+## AI Ethics
+
 ## Reinforcement Learning
 - [CampusX RL Crash Course](https://www.youtube.com/playlist?list=PLKnIA16_RmvbMK0_fdp0DZHZKm4Q1slAB)
 - https://pclub.in/roadmap/2025/11/01/RL-Roadmap
@@ -177,13 +218,9 @@ COLD EMAIL:
 - [ ] Intern @ Research
   - [ ] https://discoverlabs.org/find
 - [ ] ...
+
 ## Masters Abroad
 - Join community for GRE & Masters Abroad
-
-## Psychology
-- Philosophy?
-
-## AI Ethics
 
 ## Core Physics and Quantum Physics
 - [Quantum Mechanics - For the Love of Physics](https://youtube.com/playlist?list=PLRN3HroZGu2mCtdalEmZAM2nr1xBWAtUn&si=ILqSXavYcaTNvbJ8)
@@ -196,39 +233,3 @@ https://github.com/altamiracorp/awesome-xai#repositories
 - [ ] [Interpretable Machine Learning | Book](https://christophm.github.io/interpretable-ml-book/)
 - https://www.lesswrong.com/users/neel-nanda-1
 - https://truthful.ai/
-
-
-## Core CS
-MAIN PROJECT: 
-- Join CS community on Discord
-- [ ] Systems Programming with C and C++
-  - [ ] Arduino
-- [ ] OOD in C++
-- [ ] DSA in C++
-  - [ ] Data Structures in C++ and/or Python
-  - [ ] Algorithms in C++ and/or Python
-  - [ ] GATE: [Data Structures and Algorithms for GATE | Amit Khurana](https://www.youtube.com/playlist?list=PLC36xJgs4dxFCQVvjMrrjcY3XrcMm2GHy)
-  - [ ] LeetCode
-  - [ ] [CP](https://pclub.in/roadmap/2024/07/21/cp-roadmap/)
-
-- [ ] COA
-  - [ ] MINI-PROJECT: Ben Eater Breadboard computer
-- [ ] OS
-  - [ ] MINI-PROJECT: My own OS from scratch in C
-- [ ] CN
-- [ ] DBMS & SQL
-  - [ ] Make my own DBMS from scratch
-  - [ ] GATE: [Database Management Systems | IIT-M](https://www.youtube.com/playlist?list=PLZ2ps__7DhBYc4jkUk_yQAjYEVFzVzhdU)
-- [ ] Version Control
-  - [ ] Git from scratch
-- **System Design:** Designing Data-Intensive Applications (Martin Kleppmann)
-  - Machine Learning Design Patterns (Valliappa Lakshmanan, Sara Robinson & Michael Munn)
-    A cookbook of repeatable solutions: data ingestion, batch vs. streaming inference, A/B testing, etc.
-  - Designing Machine Learning Systems (Chip Huyền)
-    Holistic systems thinking: data ownership, retraining schedules, monitoring and feedback loops.
-  - AI Engineering (Chip Huyền)
-    How to select foundation models, define benchmarks, and deploy scalable AI services.
-## MLOps
-- MLOps: Continuous Delivery and Automation for Machine Learning (Mark Treveil & Alok Shukla)
-- Kubeflow for Machine Learning: From Lab to Production (Trevor Grant et al.)
-- Observability Engineering (Charity Majors, Liz Fong-Jones & George Miranda)Master logs, metrics and tracing for reliable, performant ML services
