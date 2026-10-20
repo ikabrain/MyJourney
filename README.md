@@ -167,6 +167,7 @@ MAIN PROJECT: Kaggle + https://github.com/shsarv/machine-learning-Projects#-clas
 - [Maths for ML](https://mml-book.github.io/book/mml-book.pdf)
 - CS229
 - [100 Days of Machine Learning | CampusX](https://www.youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH)
+- [Machine Learning from Scratch | Patrick Loeber](https://www.youtube.com/playlist?list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E)
 - **scikit-learn:** [Introduction to Machine Learning with Python](https://www.nrigroupindia.com/e-book/Introduction%20to%20Machine%20Learning%20with%20Python%20(%20PDFDrive.com%20)-min.pdf)
 - **Building on scikit-learn**: [Python Machine Learning](https://jcer.in/jcer-docs/E-Learning/Digital%20Library%20/E-Books/python-machine-learning-and-deep-learning-with-python-scikit-learn-and-tensorflow-2.pdf)
 - Hands-on ML with scikit-learn and PyTorch
