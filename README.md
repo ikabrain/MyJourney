@@ -95,7 +95,7 @@ MAIN PROJECT: Take part in 3 hackathons + win one; 3 FOSS projects!
   - [x] [Essence of Linear Algebra | 3b1b](https://www.3blue1brown.com/?topic=linear-algebra)
   - [ ] MINI-PROJECT: Animating Eigenvalues and Eigenvectors for Thapar students
   - [ ] [Linear Algebra by Gilbert Strang | MIT OCW](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)
-  - [ ] MINI-PROJECT:
+  - [ ] MINI-PROJECT: `np.linalg` from scratch
   - [ ] PROJECT:  
   - [ ] [Matrix Methods in Data Analysis, Signal Processing, and Machine Learning by Gilbert Strang | MIT OCW](https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)
   - [ ] MINI-PROJECT:
