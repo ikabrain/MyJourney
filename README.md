@@ -233,7 +233,6 @@ Designing Data-Intensive Applications (Martin Kleppmann)
 - [Quantum Mechanics - For the Love of Physics](https://youtube.com/playlist?list=PLRN3HroZGu2mCtdalEmZAM2nr1xBWAtUn&si=ILqSXavYcaTNvbJ8)
 - Feynmann Lecture on Physics
 - Physics Projects
-## SciML
 ## Explainable AI
 https://github.com/altamiracorp/awesome-xai#repositories
 ## Mechanistic Interpretability
@@ -241,3 +240,5 @@ https://github.com/altamiracorp/awesome-xai#repositories
 - [ ] [Interpretable Machine Learning | Book](https://christophm.github.io/interpretable-ml-book/)
 - https://www.lesswrong.com/users/neel-nanda-1
 - https://truthful.ai/
+## SciML
+## Quantum ML
