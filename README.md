@@ -198,6 +198,10 @@ MAIN PROJECT: Get one research paper published
 - **GenAI:** [Generative Deep Learning](https://urn.ub.unibe.ch/urn:ch:slsp:zbz:9781098134181:ihv:pdf)
 COLD EMAIL: 
 
+
+## Masters Abroad
+- Join community for GRE & Masters Abroad
+
 ## System Design & MLSD
 Designing Data-Intensive Applications (Martin Kleppmann)
   - Machine Learning Design Patterns (Valliappa Lakshmanan, Sara Robinson & Michael Munn)
@@ -225,13 +229,11 @@ Designing Data-Intensive Applications (Martin Kleppmann)
   - [ ] https://discoverlabs.org/find
 - [ ] ...
 
-## Masters Abroad
-- Join community for GRE & Masters Abroad
-
 ## Core Physics and Quantum Physics
 - [Quantum Mechanics - For the Love of Physics](https://youtube.com/playlist?list=PLRN3HroZGu2mCtdalEmZAM2nr1xBWAtUn&si=ILqSXavYcaTNvbJ8)
 - Feynmann Lecture on Physics
 - Physics Projects
+## SciML
 ## Explainable AI
 https://github.com/altamiracorp/awesome-xai#repositories
 ## Mechanistic Interpretability
