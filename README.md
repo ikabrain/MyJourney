@@ -188,6 +188,7 @@ MAIN PROJECT: Get one research paper published
 - [3b1b's Neural Networks Playlist](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=EuQYcSHMkbrD7OFM)
 - [Dive into Deep Learning | Beginner + Code](https://d2l.ai/)
 - [Deep Learning book by Ian Goodfellow](https://www.deeplearningbook.org/)
+- [Understanding Deep Learning by Prince](https://anthology-of-data.science/resources/prince2023udl.pdf) {successor of Goodfellow's Deep Learning book}
 - [Neural Networks: Zero to Hero by Andrej Karpathy](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
 - [100 Days of Deep Learning | CampusX](https://www.youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn)
 - [Practical Deep Learning for Coders](https://course.fast.ai/)
@@ -225,6 +226,7 @@ Designing Data-Intensive Applications (Martin Kleppmann)
 ## Agentic AI
 
 ## RESEARCH INTERNSHIP
+- [ ] [The Turing Way](https://book.the-turing-way.org/) for reproducible research
 - [ ] Intern @ Research
   - [ ] https://discoverlabs.org/find
 - [ ] ...
