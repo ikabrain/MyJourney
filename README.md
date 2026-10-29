@@ -182,7 +182,7 @@ MAIN PROJECT: Kaggle + https://github.com/shsarv/machine-learning-Projects#-clas
 - GATE: [Machine Learning Techniques | IIT-M](https://www.youtube.com/playlist?list=PLZ2ps__7DhBbA_e6_G3FI-BA1f7lCINUu)
  
 
-## Deep Learning from Scratch
+## Deep Learning
 MAIN PROJECT: Get one research paper published
 - AndrewNg DL Specialisation
 - [3b1b's Neural Networks Playlist](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=EuQYcSHMkbrD7OFM)
@@ -230,6 +230,8 @@ Designing Data-Intensive Applications (Martin Kleppmann)
 - [ ] Intern @ Research
   - [ ] https://discoverlabs.org/find
 - [ ] ...
+
+## GPU Programming
 
 ## Core Physics and Quantum Physics
 - [Quantum Mechanics - For the Love of Physics](https://youtube.com/playlist?list=PLRN3HroZGu2mCtdalEmZAM2nr1xBWAtUn&si=ILqSXavYcaTNvbJ8)
