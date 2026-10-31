@@ -76,6 +76,9 @@ MAIN PROJECT: Take part in 3 hackathons + win one; 3 FOSS projects!
 
 ## Mathematics for Data Science
 (M4ML Book & ICL course & DeepLearning.AI course???)
+
+- [Python for Scientific Purposes (No Pandas or Seaborn covered)](https://youtube.com/playlist?list=PLkdGijFCNuVnGxo-1fSNcdHh5gZc17oRM)
+
 - [ ] AI/ML MENTOR:
 - [ ] AI/ML & MATH COMMUNITY: [EleutherAI](https://eleuther.ai/)
 - [ ] Basic Arithmetic + Algebra
