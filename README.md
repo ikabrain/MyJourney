@@ -97,6 +97,7 @@ MAIN PROJECT: Take part in 3 hackathons + win one; 3 FOSS projects!
 - [ ] **Linear Algebra**
   - [x] [Essence of Linear Algebra | 3b1b](https://www.3blue1brown.com/?topic=linear-algebra)
   - [ ] MINI-PROJECT: Animating Eigenvalues and Eigenvectors for Thapar students
+  - [ ] PRACTICAL: [Linear Algebra for Machine Learning](https://youtube.com/playlist?list=PLRDl2inPrWQW1QSWhBU0ki-jq_uElkh2a)
   - [ ] [Linear Algebra by Gilbert Strang | MIT OCW](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)
   - [ ] MINI-PROJECT: `np.linalg` from scratch
   - [ ] PROJECT:  
