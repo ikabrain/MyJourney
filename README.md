@@ -138,6 +138,7 @@ MAIN PROJECT:
   - [ ] LeetCode
   - [ ] [CP](https://pclub.in/roadmap/2024/07/21/cp-roadmap/)
 
+SYSTEMS PROGRAMMING IN C++ & RUST
 - [ ] COA
   - [ ] MINI-PROJECT: Ben Eater Breadboard computer
 - [ ] OS
