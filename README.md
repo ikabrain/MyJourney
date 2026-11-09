@@ -247,6 +247,7 @@ https://github.com/altamiracorp/awesome-xai#repositories
 ## Mechanistic Interpretability
 - Mech Interp Discord
 - [ ] [Interpretable Machine Learning | Book](https://christophm.github.io/interpretable-ml-book/)
+- [ ] [Learn Mechanistic Interpretability | FOSS Textbook](https://learnmechinterp.com/)
 - https://www.lesswrong.com/users/neel-nanda-1
 - https://truthful.ai/
 ## SciML
