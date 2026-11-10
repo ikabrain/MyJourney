@@ -96,18 +96,16 @@ MAIN PROJECT: Take part in 3 hackathons + win one; 3 FOSS projects!
   - [ ] [Multivariable Calculus | MIT](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/)
 - [ ] **Linear Algebra**
   - [x] [Essence of Linear Algebra | 3b1b](https://www.3blue1brown.com/?topic=linear-algebra)
-  - [ ] MINI-PROJECT: Animating Eigenvalues and Eigenvectors for Thapar students
-  - [ ] PRACTICAL: [Linear Algebra for Machine Learning](https://youtube.com/playlist?list=PLRDl2inPrWQW1QSWhBU0ki-jq_uElkh2a)
   - [ ] [Linear Algebra by Gilbert Strang | MIT OCW](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)
+  - [ ] MINI-PROJECT: Use `manim` to animate 5 concepts and upload on YouTube
+  - [ ] [Computational Linear Algebra for Coders](https://github.com/fastai/numerical-linear-algebra)
   - [ ] MINI-PROJECT: `np.linalg` from scratch
   - [ ] PROJECT:  
   - [ ] [Matrix Methods in Data Analysis, Signal Processing, and Machine Learning by Gilbert Strang | MIT OCW](https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)
   - [ ] MINI-PROJECT:
-  - [ ] PROJECT:
-  - [ ] [Linear Algebra Done Wrong](https://sites.google.com/a/brown.edu/sergei-treil-homepage/linear-algebra-done-wrong)
-  - [ ] [Linear Algebra Done Right](https://linear.axler.net/LADR4e.pdf)
+  - [ ] PROJECT: 
+  - [ ] PRACTICAL: [Linear Algebra for Machine Learning](https://youtube.com/playlist?list=PLRDl2inPrWQW1QSWhBU0ki-jq_uElkh2a)
   - [ ] GATE: ...
-  - [ ] PRACTICAL: [Computational Linear Algebra for Coders](https://github.com/fastai/numerical-linear-algebra)
 - [ ] Probability and Statistics
   - [ ] [Harvard's Stat110](https://stat110.hsites.harvard.edu/)
   - [ ] [Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
@@ -238,10 +236,17 @@ Designing Data-Intensive Applications (Martin Kleppmann)
 
 ## GPU Programming
 
+## Advacned Math
+- [ ] Multilinear Algebra
+  - [ ] [Linear Algebra Done Wrong](https://sites.google.com/a/brown.edu/sergei-treil-homepage/linear-algebra-done-wrong)
+  - [ ] [Linear Algebra Done Right](https://linear.axler.net/LADR4e.pdf)
+  - [ ] [Lectures on Geometrical Anatomy of Theoretical Physics | Frederic Schuller](https://www.youtube.com/playlist?list=PLPH7f_7ZlzxTi6kS4vCmv4ZKm9u8g5yic)
+
 ## Core Physics and Quantum Physics
 - [Quantum Mechanics - For the Love of Physics](https://youtube.com/playlist?list=PLRN3HroZGu2mCtdalEmZAM2nr1xBWAtUn&si=ILqSXavYcaTNvbJ8)
 - Feynmann Lecture on Physics
 - Physics Projects
+- https://quantum-matters.com/skill-tree
 ## Explainable AI
 https://github.com/altamiracorp/awesome-xai#repositories
 ## Mechanistic Interpretability
