@@ -118,6 +118,7 @@ MAIN PROJECT: Take part in 3 hackathons + win one; 3 FOSS projects!
   - [ ] [Online Statistics Book](https://onlinestatbook.com/)
 - [ ] Differential Equations
   - [ ] [Differential Equations | MIT](https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/)
+- [ ] [**Maths for ML**](https://mml-book.github.io/book/mml-book.pdf)
 - [ ] Econometrics
 - [ ] Proofs & Discrete Mathematics
 - [ ] Information Theory
@@ -174,7 +175,6 @@ MAIN PROJECT: Kaggle + https://github.com/shsarv/machine-learning-Projects#-clas
 - Kaggle's Intro to ML
 
 - AngrewNg ML Specialisation
-- [Maths for ML](https://mml-book.github.io/book/mml-book.pdf)
 - CS229
 - [100 Days of Machine Learning | CampusX](https://www.youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH)
 - [Machine Learning from Scratch | Patrick Loeber](https://www.youtube.com/playlist?list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E)
