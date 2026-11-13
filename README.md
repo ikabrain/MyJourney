@@ -128,7 +128,7 @@ SHIP:
 MAIN PROJECT: 
 - Join CS community on Discord
 - [ ] Systems Programming with C and C++
-  - [ ] Arduino
+  - Arduino & ESP32 along with 3D Printing!
 - [ ] OOD in C++
 - [ ] DSA in C++
   - [ ] Data Structures in C++ and/or Python
